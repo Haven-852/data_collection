@@ -1,0 +1,801 @@
+Year,Device Name,Supplier,Procurement Volume
+2015,AI影像辅助诊断平台,腾讯觅影,23
+2015,AI超声辅助诊断设备,SAS,7
+2015,AI手术导航系统,迈瑞医疗,3
+2015,AI病理分析仪,Element5,9
+2015,AI智能问诊系统,Siemens Healthineers,4
+2015,AI病理分析仪,Google Health,8
+2015,AI超声辅助诊断设备,PathAI,8
+2015,AI病理分析仪,前瞻产业研究院,8
+2015,AI手术导航系统,迈瑞医疗,3
+2015,AI全科辅助诊疗系统,Microsoft Healthcare,5
+2015,AI全科辅助诊疗系统,Butterfly Network,5
+2015,AI影像辅助诊断平台,Causaly,20
+2015,AI心电图分析系统,SimpleTherapy,12
+2015,AI手术导航系统,迈瑞医疗,3
+2015,AI病理分析仪,Insitro,9
+2015,AI影像辅助诊断平台,BenchSci,20
+2015,AI全科辅助诊疗系统,Healx,5
+2015,AI影像辅助诊断平台,新华三AI医疗平台,19
+2015,AI病理分析仪,Element5,9
+2015,AI药物研发平台,Amazon Health,2
+2015,AI手术导航系统,Owkin,3
+2015,AI超声辅助诊断设备,森浦医疗AI平台,7
+2015,AI心电图分析系统,迈瑞医疗,12
+2015,AI影像辅助诊断平台,Chordline Health,23
+2015,AI病理分析仪,推想科技,8
+2015,AI影像辅助诊断平台,平安智慧医疗,22
+2015,AI超声辅助诊断设备,Owkin,7
+2015,AI药物研发平台,医渡云,2
+2015,AI超声辅助诊断设备,迈瑞医疗,7
+2015,AI手术导航系统,SimpleTherapy,3
+2015,AI药物研发平台,医渡云,2
+2015,AI全科辅助诊疗系统,迈瑞医疗,5
+2015,AI手术导航系统,Vizzia Technologies,3
+2015,AI全科辅助诊疗系统,Element5,6
+2015,AI智能问诊系统,CodaMetrix,4
+2015,AI超声辅助诊断设备,联影智能,8
+2015,AI辅助诊断系统（肺部CT）,蓝帆医疗AI,16
+2015,AI影像辅助诊断平台,腾讯觅影,20
+2015,AI智能问诊系统,阿里健康,4
+2015,AI辅助诊断系统（肺部CT）,深睿医疗,17
+2015,AI病理分析仪,迈瑞医疗,9
+2015,AI药物研发平台,PathAI,2
+2015,AI超声辅助诊断设备,医渡云,7
+2015,AI全科辅助诊疗系统,ScienceDirect,6
+2015,AI辅助诊断系统（肺部CT）,深睿医疗,15
+2015,AI辅助诊断系统（肺部CT）,Fathom,16
+2015,AI全科辅助诊疗系统,Arterys,5
+2015,AI影像辅助诊断平台,Chordline Health,23
+2015,AI药物研发平台,森浦医疗AI平台,2
+2015,AI药物研发平台,Optum Analytics,2
+2015,AI超声辅助诊断设备,平安智慧医疗,8
+2015,AI辅助诊断系统（肺部CT）,Chordline Health,18
+2015,AI辅助诊断系统（肺部CT）,医渡云,17
+2015,AI全科辅助诊疗系统,科亚医疗,5
+2015,AI药物研发平台,Amazon Health,2
+2015,AI影像辅助诊断平台,HMNC Brain Health,20
+2015,AI病理分析仪,IBM Watson Health,9
+2015,AI心电图分析系统,Intelligencia AI,14
+2015,AI影像辅助诊断平台,Cleerly,21
+2015,AI心电图分析系统,阿里健康,14
+2015,AI药物研发平台,医渡云,2
+2015,AI药物研发平台,医渡云,2
+2015,AI超声辅助诊断设备,科亚医疗,7
+2015,AI超声辅助诊断设备,Angle Health,8
+2015,AI超声辅助诊断设备,联影智能,8
+2015,AI药物研发平台,医渡云,2
+2015,AI病理分析仪,Atomwise,8
+2015,AI智能问诊系统,Everly Health,5
+2015,AI辅助诊断系统（肺部CT）,深睿医疗,15
+2015,AI病理分析仪,华大智造,8
+2015,AI全科辅助诊疗系统,Angle Health,6
+2015,AI心电图分析系统,森浦医疗AI平台,11
+2015,AI辅助诊断系统（肺部CT）,Heidi Health,15
+2015,AI病理分析仪,Color Health,8
+2015,AI辅助诊断系统（肺部CT）,BenevolentAI,17
+2015,AI心电图分析系统,迈瑞医疗,11
+2015,AI药物研发平台,Arterys,2
+2015,AI药物研发平台,Quris-AI,2
+2015,AI药物研发平台,Google Health,2
+2015,AI心电图分析系统,新华三AI医疗平台,14
+2015,AI病理分析仪,Heidi Health,8
+2015,AI影像辅助诊断平台,腾讯觅影,22
+2015,AI影像辅助诊断平台,Hinge Health,24
+2015,AI辅助诊断系统（肺部CT）,Chordline Health,16
+2015,AI心电图分析系统,数坤科技,12
+2015,AI智能问诊系统,Daxue Consulting,5
+2015,AI心电图分析系统,观研报告网,13
+2015,AI手术导航系统,CodaMetrix,3
+2015,AI超声辅助诊断设备,Color Health,7
+2015,AI全科辅助诊疗系统,森亿智能,5
+2015,AI病理分析仪,推想科技,9
+2015,AI智能问诊系统,阿里健康,4
+2015,AI心电图分析系统,医渡云,12
+2015,AI辅助诊断系统（肺部CT）,深睿医疗,15
+2015,AI辅助诊断系统（肺部CT）,汇医慧影,18
+2015,AI病理分析仪,Cleerly,9
+2015,AI手术导航系统,Exscientia,3
+2015,AI药物研发平台,医渡云,2
+2015,AI手术导航系统,Praxis EMR,3
+2015,AI超声辅助诊断设备,Google Health,7
+2016,AI药物研发平台,Regard,2
+2016,AI超声辅助诊断设备,Philips Healthcare,8
+2016,AI智能问诊系统,Insitro,5
+2016,AI智能问诊系统,Praxis EMR,4
+2016,AI智能问诊系统,阿里健康,5
+2016,AI超声辅助诊断设备,蓝帆医疗AI,7
+2016,AI手术导航系统,Google Health,3
+2016,AI病理分析仪,推想科技,8
+2016,AI药物研发平台,Insitro,2
+2016,AI辅助诊断系统（肺部CT）,Insitro,15
+2016,AI全科辅助诊疗系统,Color Health,5
+2016,AI病理分析仪,腾讯觅影,8
+2016,AI手术导航系统,Heidi Health,3
+2016,AI手术导航系统,GE Healthcare,3
+2016,AI心电图分析系统,数坤科技,12
+2016,AI病理分析仪,推想科技,8
+2016,AI超声辅助诊断设备,Forward,8
+2016,AI心电图分析系统,联影智能,11
+2016,AI超声辅助诊断设备,Infinitus,7
+2016,AI心电图分析系统,Hinge Health,12
+2016,AI超声辅助诊断设备,华大智造,8
+2016,AI药物研发平台,Daxue Consulting,2
+2016,AI手术导航系统,迈瑞医疗,3
+2016,AI超声辅助诊断设备,迈瑞医疗,8
+2016,AI病理分析仪,SAS,9
+2016,AI病理分析仪,推想科技,8
+2016,AI药物研发平台,Atomwise,2
+2016,AI智能问诊系统,阿里健康,5
+2016,AI全科辅助诊疗系统,新华三AI医疗平台,5
+2016,AI辅助诊断系统（肺部CT）,Microsoft Healthcare,16
+2016,AI超声辅助诊断设备,Google Health,7
+2016,AI手术导航系统,依图科技,3
+2016,AI全科辅助诊疗系统,Microsoft Healthcare,6
+2016,AI超声辅助诊断设备,深睿医疗,7
+2016,AI药物研发平台,医渡云,2
+2016,AI全科辅助诊疗系统,Praxis EMR,6
+2016,AI辅助诊断系统（肺部CT）,医渡云,17
+2016,AI药物研发平台,医渡云,2
+2016,AI病理分析仪,推想科技,8
+2016,AI超声辅助诊断设备,Optum Analytics,7
+2016,AI影像辅助诊断平台,Heidi Health,22
+2016,AI超声辅助诊断设备,Digital Diagnostics,8
+2016,AI心电图分析系统,汇医慧影,11
+2016,AI手术导航系统,艾瑞咨询,3
+2016,AI辅助诊断系统（肺部CT）,深睿医疗,19
+2016,AI手术导航系统,迈瑞医疗,3
+2016,AI超声辅助诊断设备,Heidi Health,8
+2016,AI心电图分析系统,数坤科技,14
+2016,AI心电图分析系统,数坤科技,15
+2016,AI药物研发平台,医渡云,2
+2016,AI智能问诊系统,阿里健康,5
+2016,AI手术导航系统,Daxue Consulting,3
+2016,AI心电图分析系统,数坤科技,12
+2016,AI手术导航系统,蓝帆医疗AI,3
+2016,AI超声辅助诊断设备,深睿医疗,8
+2016,AI影像辅助诊断平台,Heidi Health,24
+2016,AI药物研发平台,Fathom,2
+2016,AI全科辅助诊疗系统,Element5,5
+2016,AI心电图分析系统,医渡云,14
+2016,AI手术导航系统,深睿医疗,3
+2016,AI手术导航系统,Optum Analytics,3
+2016,AI手术导航系统,迈瑞医疗,4
+2016,AI心电图分析系统,Quris-AI,12
+2016,AI全科辅助诊疗系统,Praxis EMR,6
+2016,AI影像辅助诊断平台,Optum Analytics,22
+2016,AI影像辅助诊断平台,腾讯觅影,24
+2016,AI全科辅助诊疗系统,鹰瞳科技,5
+2016,AI影像辅助诊断平台,Optum Analytics,24
+2016,AI病理分析仪,ScienceDirect,10
+2016,AI智能问诊系统,前瞻产业研究院,4
+2016,AI心电图分析系统,Butterfly Network,14
+2016,AI全科辅助诊疗系统,国家统计局,6
+2016,AI影像辅助诊断平台,Eleos Health,19
+2016,AI病理分析仪,Arcadia,8
+2016,AI辅助诊断系统（肺部CT）,观研报告网,17
+2016,AI心电图分析系统,森浦医疗AI平台,13
+2016,AI智能问诊系统,阿里健康,5
+2016,AI影像辅助诊断平台,深睿医疗,24
+2016,AI智能问诊系统,Everly Health,5
+2016,AI超声辅助诊断设备,新华三AI医疗平台,7
+2016,AI辅助诊断系统（肺部CT）,深睿医疗,15
+2017,AI手术导航系统,迈瑞医疗,3
+2017,AI药物研发平台,医渡云,2
+2017,AI辅助诊断系统（肺部CT）,蓝帆医疗AI,15
+2017,AI手术导航系统,Color Health,3
+2017,AI全科辅助诊疗系统,依图科技,6
+2017,AI超声辅助诊断设备,医渡云,8
+2017,AI心电图分析系统,Viz.ai,11
+2017,AI手术导航系统,Hinge Health,4
+2017,AI心电图分析系统,数坤科技,12
+2017,AI心电图分析系统,数坤科技,12
+2017,AI药物研发平台,Owkin,2
+2017,AI全科辅助诊疗系统,阿里健康,5
+2017,AI智能问诊系统,Intelligencia AI,4
+2017,AI药物研发平台,Everly Health,2
+2017,AI全科辅助诊疗系统,Arterys,5
+2017,AI药物研发平台,Atomwise,2
+2017,AI病理分析仪,推想科技,8
+2017,AI智能问诊系统,IBM Watson Health,4
+2017,AI药物研发平台,Fathom,2
+2017,AI手术导航系统,推想科技,4
+2017,AI药物研发平台,Livara Health,2
+2017,AI辅助诊断系统（肺部CT）,森浦医疗AI平台,17
+2017,AI全科辅助诊疗系统,Cleerly,6
+2017,AI心电图分析系统,数坤科技,12
+2017,AI影像辅助诊断平台,腾讯觅影,21
+2017,AI辅助诊断系统（肺部CT）,中国信通院,18
+2017,AI心电图分析系统,Element5,12
+2017,AI智能问诊系统,SmarterDx,5
+2017,AI心电图分析系统,数坤科技,12
+2017,AI辅助诊断系统（肺部CT）,深睿医疗,15
+2017,AI心电图分析系统,Everly Health,12
+2017,AI全科辅助诊疗系统,医渡云,6
+2017,AI超声辅助诊断设备,新华三AI医疗平台,7
+2017,AI病理分析仪,BenevolentAI,9
+2017,AI病理分析仪,BenchSci,9
+2017,AI心电图分析系统,数坤科技,14
+2017,AI影像辅助诊断平台,GE Healthcare,20
+2017,AI超声辅助诊断设备,Exscientia,9
+2017,AI全科辅助诊疗系统,SmarterDx,5
+2017,AI辅助诊断系统（肺部CT）,深睿医疗,14
+2017,AI超声辅助诊断设备,联影智能,8
+2017,AI辅助诊断系统（肺部CT）,GE Healthcare,15
+2017,AI药物研发平台,医渡云,2
+2017,AI辅助诊断系统（肺部CT）,深睿医疗,19
+2017,AI药物研发平台,前瞻产业研究院,2
+2017,AI手术导航系统,森浦医疗AI平台,3
+2017,AI超声辅助诊断设备,Everly Health,8
+2017,AI超声辅助诊断设备,Philips Healthcare,8
+2017,AI手术导航系统,PathAI,3
+2017,AI心电图分析系统,HMNC Brain Health,15
+2017,AI药物研发平台,医渡云,2
+2017,AI病理分析仪,Angle Health,8
+2017,AI影像辅助诊断平台,Microsoft Healthcare,25
+2017,AI智能问诊系统,Livara Health,5
+2017,AI全科辅助诊疗系统,汇医慧影,6
+2017,AI病理分析仪,前瞻产业研究院,9
+2017,AI药物研发平台,Exscientia,2
+2017,AI心电图分析系统,Owkin,14
+2017,AI心电图分析系统,新华三AI医疗平台,14
+2017,AI辅助诊断系统（肺部CT）,科亚医疗,16
+2017,AI病理分析仪,CodaMetrix,10
+2017,AI智能问诊系统,阿里健康,5
+2017,AI超声辅助诊断设备,GE Healthcare,8
+2017,AI全科辅助诊疗系统,Lyra Health,5
+2017,AI药物研发平台,科亚医疗,2
+2017,AI手术导航系统,医渡云,3
+2017,AI智能问诊系统,Daxue Consulting,4
+2017,AI心电图分析系统,IBM Watson Health,14
+2017,AI药物研发平台,观研报告网,2
+2017,AI药物研发平台,Augmedix,2
+2017,AI智能问诊系统,Philips Healthcare,4
+2017,AI辅助诊断系统（肺部CT）,平安智慧医疗,19
+2017,AI辅助诊断系统（肺部CT）,鹰瞳科技,15
+2017,AI影像辅助诊断平台,医渡云,23
+2018,AI智能问诊系统,鹰瞳科技,4
+2018,AI超声辅助诊断设备,Viz.ai,7
+2018,AI药物研发平台,医渡云,2
+2018,AI心电图分析系统,Arterys,13
+2018,AI智能问诊系统,前瞻产业研究院,4
+2018,AI病理分析仪,Arcadia,8
+2018,AI心电图分析系统,数坤科技,12
+2018,AI全科辅助诊疗系统,观研报告网,5
+2018,AI病理分析仪,GE Healthcare,11
+2018,AI手术导航系统,Amazon Health,4
+2018,AI药物研发平台,Viz.ai,2
+2018,AI全科辅助诊疗系统,依图科技,6
+2018,AI病理分析仪,SmarterDx,8
+2018,AI病理分析仪,Element5,9
+2018,AI超声辅助诊断设备,联影智能,8
+2018,AI超声辅助诊断设备,数坤科技,7
+2018,AI影像辅助诊断平台,Quris-AI,20
+2018,AI全科辅助诊疗系统,联影智能,6
+2018,AI智能问诊系统,BenchSci,4
+2018,AI手术导航系统,迈瑞医疗,4
+2018,AI超声辅助诊断设备,联影智能,8
+2018,AI影像辅助诊断平台,腾讯觅影,22
+2018,AI全科辅助诊疗系统,依图科技,7
+2018,AI病理分析仪,推想科技,10
+2018,AI辅助诊断系统（肺部CT）,GE Healthcare,19
+2018,AI药物研发平台,Forward,2
+2018,AI病理分析仪,推想科技,10
+2018,AI全科辅助诊疗系统,Causaly,6
+2018,AI全科辅助诊疗系统,Lyra Health,6
+2018,AI手术导航系统,迈瑞医疗,4
+2018,AI手术导航系统,Arcadia,3
+2018,AI智能问诊系统,Siemens Healthineers,5
+2018,AI辅助诊断系统（肺部CT）,深睿医疗,16
+2018,AI超声辅助诊断设备,Healx,8
+2018,AI辅助诊断系统（肺部CT）,Optum Analytics,18
+2018,AI智能问诊系统,Intelligencia AI,5
+2018,AI病理分析仪,鹰瞳科技,10
+2018,AI药物研发平台,Hinge Health,2
+2018,AI心电图分析系统,Eleos Health,14
+2018,AI影像辅助诊断平台,医渡云,20
+2018,AI手术导航系统,迈瑞医疗,3
+2018,AI病理分析仪,CKGSB Knowledge,10
+2018,AI药物研发平台,Quibim,2
+2018,AI辅助诊断系统（肺部CT）,华大智造,16
+2018,AI药物研发平台,Google Health,2
+2018,AI病理分析仪,IBM Watson Health,10
+2018,AI药物研发平台,数坤科技,2
+2018,AI心电图分析系统,数坤科技,13
+2018,AI超声辅助诊断设备,观研报告网,8
+2018,AI超声辅助诊断设备,阿里健康,7
+2018,AI智能问诊系统,阿里健康,4
+2018,AI影像辅助诊断平台,CKGSB Knowledge,24
+2018,AI心电图分析系统,深睿医疗,13
+2018,AI心电图分析系统,Eleos Health,13
+2018,AI全科辅助诊疗系统,SmarterDx,6
+2018,AI心电图分析系统,数坤科技,11
+2018,AI辅助诊断系统（肺部CT）,Causaly,19
+2018,AI全科辅助诊疗系统,森亿智能,5
+2018,AI超声辅助诊断设备,Siemens Healthineers,7
+2018,AI心电图分析系统,PathAI,15
+2018,AI全科辅助诊疗系统,数坤科技,5
+2018,AI病理分析仪,Philips Healthcare,10
+2018,AI手术导航系统,迈瑞医疗,3
+2018,AI全科辅助诊疗系统,PathAI,5
+2018,AI影像辅助诊断平台,Atomwise,20
+2018,AI影像辅助诊断平台,国家统计局,19
+2018,AI超声辅助诊断设备,联影智能,7
+2018,AI超声辅助诊断设备,联影智能,9
+2018,AI手术导航系统,鹰瞳科技,3
+2018,AI智能问诊系统,Eleos Health,5
+2018,AI全科辅助诊疗系统,Siemens Healthineers,5
+2018,AI病理分析仪,Atomwise,10
+2018,AI超声辅助诊断设备,鹰瞳科技,7
+2018,AI药物研发平台,迈瑞医疗,2
+2019,AI智能问诊系统,Color Health,5
+2019,AI病理分析仪,科亚医疗,11
+2019,AI超声辅助诊断设备,IBM Watson Health,8
+2019,AI影像辅助诊断平台,Google Health,27
+2019,AI手术导航系统,Causaly,4
+2019,AI智能问诊系统,Microsoft Healthcare,5
+2019,AI辅助诊断系统（肺部CT）,CodaMetrix,17
+2019,AI影像辅助诊断平台,腾讯觅影,27
+2019,AI心电图分析系统,深睿医疗,14
+2019,AI手术导航系统,CodaMetrix,3
+2019,AI病理分析仪,Fathom,9
+2019,AI药物研发平台,华大智造,3
+2019,AI病理分析仪,IBM Watson Health,11
+2019,AI辅助诊断系统（肺部CT）,深睿医疗,21
+2019,AI全科辅助诊疗系统,依图科技,6
+2019,AI药物研发平台,IBM Watson Health,2
+2019,AI手术导航系统,迈瑞医疗,3
+2019,AI影像辅助诊断平台,医渡云,24
+2019,AI手术导航系统,SmarterDx,4
+2019,AI病理分析仪,平安智慧医疗,9
+2019,AI手术导航系统,迈瑞医疗,4
+2019,AI心电图分析系统,数坤科技,12
+2019,AI智能问诊系统,阿里健康,4
+2019,AI心电图分析系统,数坤科技,15
+2019,AI心电图分析系统,数坤科技,16
+2019,AI影像辅助诊断平台,Exscientia,20
+2019,AI药物研发平台,HMNC Brain Health,2
+2019,AI超声辅助诊断设备,联影智能,8
+2019,AI心电图分析系统,华大智造,16
+2019,AI辅助诊断系统（肺部CT）,Butterfly Network,17
+2019,AI药物研发平台,阿里健康,2
+2019,AI手术导航系统,ZOE,4
+2019,AI病理分析仪,观研报告网,10
+2019,AI智能问诊系统,Microsoft Healthcare,4
+2019,AI智能问诊系统,Angle Health,5
+2019,AI超声辅助诊断设备,Augmedix,9
+2019,AI超声辅助诊断设备,CKGSB Knowledge,8
+2019,AI心电图分析系统,鹰瞳科技,14
+2019,AI心电图分析系统,SmarterDx,16
+2019,AI心电图分析系统,Quris-AI,14
+2019,AI影像辅助诊断平台,SimpleTherapy,27
+2019,AI智能问诊系统,Vizzia Technologies,4
+2019,AI药物研发平台,医渡云,2
+2019,AI影像辅助诊断平台,CodaMetrix,27
+2019,AI全科辅助诊疗系统,BenchSci,5
+2019,AI心电图分析系统,HMNC Brain Health,15
+2019,AI药物研发平台,Quris-AI,2
+2019,AI全科辅助诊疗系统,依图科技,7
+2019,AI影像辅助诊断平台,Chordline Health,23
+2019,AI全科辅助诊疗系统,平安智慧医疗,6
+2019,AI辅助诊断系统（肺部CT）,中国信通院,18
+2019,AI影像辅助诊断平台,依图科技,22
+2019,AI超声辅助诊断设备,Microsoft Healthcare,7
+2019,AI心电图分析系统,PathAI,14
+2019,AI手术导航系统,深睿医疗,4
+2019,AI超声辅助诊断设备,Eleos Health,9
+2019,AI心电图分析系统,新华三AI医疗平台,12
+2019,AI药物研发平台,深睿医疗,2
+2019,AI辅助诊断系统（肺部CT）,国家统计局,16
+2019,AI超声辅助诊断设备,国家统计局,7
+2019,AI病理分析仪,前瞻产业研究院,8
+2019,AI全科辅助诊疗系统,Owkin,6
+2019,AI药物研发平台,CodaMetrix,3
+2019,AI心电图分析系统,医渡云,17
+2019,AI超声辅助诊断设备,Elegen Corp.,9
+2019,AI全科辅助诊疗系统,Forward,6
+2019,AI智能问诊系统,阿里健康,5
+2019,AI全科辅助诊疗系统,Quris-AI,5
+2019,AI智能问诊系统,科亚医疗,5
+2019,AI超声辅助诊断设备,联影智能,9
+2019,AI影像辅助诊断平台,Chordline Health,23
+2019,AI全科辅助诊疗系统,Google Health,6
+2020,AI超声辅助诊断设备,深睿医疗,9
+2020,AI药物研发平台,联影智能,2
+2020,AI心电图分析系统,数坤科技,18
+2020,AI心电图分析系统,PathAI,15
+2020,AI病理分析仪,数坤科技,11
+2020,AI心电图分析系统,Augmedix,16
+2020,AI影像辅助诊断平台,CodaMetrix,28
+2020,AI病理分析仪,Praxis EMR,8
+2020,AI心电图分析系统,ZOE,12
+2020,AI影像辅助诊断平台,Regard,24
+2020,AI药物研发平台,医渡云,2
+2020,AI全科辅助诊疗系统,新华三AI医疗平台,7
+2020,AI影像辅助诊断平台,腾讯觅影,25
+2020,AI心电图分析系统,CodaMetrix,16
+2020,AI智能问诊系统,Owkin,4
+2020,AI辅助诊断系统（肺部CT）,SAS,17
+2020,AI病理分析仪,医渡云,11
+2020,AI智能问诊系统,Google Health,4
+2020,AI病理分析仪,蓝帆医疗AI,11
+2020,AI智能问诊系统,HMNC Brain Health,6
+2020,AI全科辅助诊疗系统,依图科技,6
+2020,AI手术导航系统,迈瑞医疗,4
+2020,AI手术导航系统,迈瑞医疗,4
+2020,AI药物研发平台,Cleerly,2
+2020,AI手术导航系统,PathAI,4
+2020,AI超声辅助诊断设备,联影智能,8
+2020,AI全科辅助诊疗系统,Infinitus,5
+2020,AI超声辅助诊断设备,联影智能,10
+2020,AI智能问诊系统,SAS,5
+2020,AI辅助诊断系统（肺部CT）,Healx,22
+2020,AI药物研发平台,森亿智能,2
+2020,AI全科辅助诊疗系统,深睿医疗,6
+2020,AI心电图分析系统,Arterys,13
+2020,AI全科辅助诊疗系统,Augmedix,7
+2020,AI心电图分析系统,Vizzia Technologies,16
+2020,AI药物研发平台,Forward,2
+2020,AI手术导航系统,迈瑞医疗,3
+2020,AI智能问诊系统,BenchSci,5
+2020,AI辅助诊断系统（肺部CT）,Siemens Healthineers,22
+2020,AI全科辅助诊疗系统,Causaly,7
+2020,AI全科辅助诊疗系统,CKGSB Knowledge,7
+2020,AI病理分析仪,Everly Health,12
+2020,AI全科辅助诊疗系统,Infinitus,7
+2020,AI心电图分析系统,数坤科技,16
+2020,AI超声辅助诊断设备,联影智能,8
+2020,AI病理分析仪,Chordline Health,11
+2020,AI手术导航系统,Exscientia,3
+2020,AI手术导航系统,Regard,3
+2020,AI心电图分析系统,BenchSci,17
+2020,AI超声辅助诊断设备,Lyra Health,10
+2020,AI超声辅助诊断设备,Optum Analytics,8
+2020,AI病理分析仪,Angle Health,11
+2020,AI超声辅助诊断设备,蓝帆医疗AI,9
+2020,AI辅助诊断系统（肺部CT）,BenchSci,18
+2020,AI辅助诊断系统（肺部CT）,深睿医疗,22
+2020,AI全科辅助诊疗系统,Heidi Health,7
+2020,AI病理分析仪,Livara Health,9
+2020,AI手术导航系统,科亚医疗,3
+2020,AI辅助诊断系统（肺部CT）,森浦医疗AI平台,19
+2020,AI手术导航系统,观研报告网,3
+2020,AI辅助诊断系统（肺部CT）,Digital Diagnostics,15
+2020,AI超声辅助诊断设备,联影智能,8
+2020,AI超声辅助诊断设备,BenchSci,8
+2020,AI辅助诊断系统（肺部CT）,森亿智能,16
+2020,AI全科辅助诊疗系统,Insitro,6
+2020,AI智能问诊系统,深睿医疗,5
+2020,AI影像辅助诊断平台,腾讯觅影,25
+2020,AI手术导航系统,Vizzia Technologies,4
+2020,AI超声辅助诊断设备,HMNC Brain Health,9
+2021,AI智能问诊系统,CodaMetrix,6
+2021,AI影像辅助诊断平台,Augmedix,29
+2021,AI心电图分析系统,Color Health,17
+2021,AI手术导航系统,Causaly,4
+2021,AI心电图分析系统,森亿智能,12
+2021,AI心电图分析系统,Eleos Health,17
+2021,AI辅助诊断系统（肺部CT）,深睿医疗,22
+2021,AI全科辅助诊疗系统,Daxue Consulting,6
+2021,AI心电图分析系统,数坤科技,15
+2021,AI辅助诊断系统（肺部CT）,PathAI,18
+2021,AI心电图分析系统,Exscientia,19
+2021,AI智能问诊系统,阿里健康,4
+2021,AI辅助诊断系统（肺部CT）,深睿医疗,23
+2021,AI影像辅助诊断平台,GE Healthcare,30
+2021,AI全科辅助诊疗系统,依图科技,6
+2021,AI辅助诊断系统（肺部CT）,Forward,20
+2021,AI药物研发平台,Color Health,3
+2021,AI心电图分析系统,Amazon Health,16
+2021,AI辅助诊断系统（肺部CT）,鹰瞳科技,17
+2021,AI病理分析仪,Fathom,12
+2021,AI手术导航系统,Everly Health,4
+2021,AI智能问诊系统,Regard,6
+2021,AI手术导航系统,迈瑞医疗,4
+2021,AI手术导航系统,Exscientia,5
+2021,AI心电图分析系统,数坤科技,14
+2021,AI辅助诊断系统（肺部CT）,推想科技,15
+2021,AI智能问诊系统,迈瑞医疗,5
+2021,AI病理分析仪,推想科技,10
+2021,AI心电图分析系统,数坤科技,18
+2021,AI药物研发平台,医渡云,3
+2021,AI超声辅助诊断设备,Arterys,7
+2021,AI影像辅助诊断平台,CKGSB Knowledge,27
+2021,AI病理分析仪,观研报告网,10
+2021,AI药物研发平台,Digital Diagnostics,2
+2021,AI超声辅助诊断设备,Hinge Health,10
+2021,AI超声辅助诊断设备,Causaly,10
+2021,AI智能问诊系统,Butterfly Network,5
+2021,AI全科辅助诊疗系统,Praxis EMR,8
+2021,AI心电图分析系统,数坤科技,16
+2021,AI手术导航系统,迈瑞医疗,4
+2021,AI全科辅助诊疗系统,Element5,5
+2021,AI全科辅助诊疗系统,Vizzia Technologies,8
+2021,AI药物研发平台,医渡云,2
+2021,AI辅助诊断系统（肺部CT）,深睿医疗,19
+2021,AI药物研发平台,Philips Healthcare,3
+2021,AI全科辅助诊疗系统,依图科技,5
+2021,AI全科辅助诊疗系统,Praxis EMR,6
+2021,AI超声辅助诊断设备,Chordline Health,7
+2021,AI智能问诊系统,阿里健康,5
+2021,AI智能问诊系统,Praxis EMR,4
+2021,AI病理分析仪,数坤科技,9
+2021,AI病理分析仪,Lyra Health,8
+2021,AI智能问诊系统,Causaly,4
+2021,AI全科辅助诊疗系统,数坤科技,8
+2021,AI影像辅助诊断平台,深睿医疗,28
+2021,AI药物研发平台,Elegen Corp.,2
+2021,AI智能问诊系统,Everly Health,5
+2021,AI心电图分析系统,Infinitus,17
+2021,AI病理分析仪,推想科技,8
+2021,AI辅助诊断系统（肺部CT）,SimpleTherapy,17
+2021,AI超声辅助诊断设备,森亿智能,7
+2021,AI病理分析仪,ZOE,10
+2021,AI药物研发平台,Siemens Healthineers,3
+2021,AI心电图分析系统,Chordline Health,18
+2021,AI智能问诊系统,SmarterDx,4
+2021,AI全科辅助诊疗系统,依图科技,6
+2021,AI全科辅助诊疗系统,依图科技,6
+2021,AI病理分析仪,Eleos Health,12
+2021,AI心电图分析系统,数坤科技,12
+2021,AI辅助诊断系统（肺部CT）,Exscientia,18
+2021,AI病理分析仪,BenchSci,9
+2021,AI药物研发平台,医渡云,2
+2021,AI药物研发平台,GE Healthcare,2
+2022,AI药物研发平台,华大智造,3
+2022,AI辅助诊断系统（肺部CT）,Healx,20
+2022,AI全科辅助诊疗系统,SmarterDx,7
+2022,AI智能问诊系统,Color Health,4
+2022,AI药物研发平台,汇医慧影,3
+2022,AI辅助诊断系统（肺部CT）,蓝帆医疗AI,19
+2022,AI辅助诊断系统（肺部CT）,深睿医疗,20
+2022,AI辅助诊断系统（肺部CT）,Forward,21
+2022,AI辅助诊断系统（肺部CT）,Eleos Health,24
+2022,AI辅助诊断系统（肺部CT）,Regard,25
+2022,AI药物研发平台,Lyra Health,2
+2022,AI智能问诊系统,Google Health,5
+2022,AI智能问诊系统,阿里健康,6
+2022,AI智能问诊系统,SimpleTherapy,7
+2022,AI智能问诊系统,SimpleTherapy,4
+2022,AI心电图分析系统,Owkin,13
+2022,AI全科辅助诊疗系统,Owkin,5
+2022,AI手术导航系统,Heidi Health,4
+2022,AI病理分析仪,华大智造,9
+2022,AI病理分析仪,推想科技,8
+2022,AI辅助诊断系统（肺部CT）,深睿医疗,19
+2022,AI病理分析仪,推想科技,13
+2022,AI超声辅助诊断设备,Microsoft Healthcare,8
+2022,AI药物研发平台,Color Health,3
+2022,AI全科辅助诊疗系统,Fathom,8
+2022,AI手术导航系统,ScienceDirect,4
+2022,AI手术导航系统,Microsoft Healthcare,4
+2022,AI药物研发平台,医渡云,3
+2022,AI辅助诊断系统（肺部CT）,Cleerly,24
+2022,AI智能问诊系统,ScienceDirect,6
+2022,AI病理分析仪,科亚医疗,13
+2022,AI病理分析仪,鹰瞳科技,12
+2022,AI心电图分析系统,SmarterDx,14
+2022,AI药物研发平台,Atomwise,2
+2022,AI药物研发平台,鹰瞳科技,2
+2022,AI药物研发平台,医渡云,3
+2022,AI药物研发平台,医渡云,2
+2022,AI辅助诊断系统（肺部CT）,深睿医疗,24
+2022,AI药物研发平台,蓝帆医疗AI,2
+2022,AI超声辅助诊断设备,Insitro,7
+2022,AI心电图分析系统,Exscientia,15
+2022,AI超声辅助诊断设备,Color Health,11
+2022,AI心电图分析系统,阿里健康,16
+2022,AI辅助诊断系统（肺部CT）,数坤科技,23
+2022,AI辅助诊断系统（肺部CT）,Insitro,19
+2022,AI全科辅助诊疗系统,Insitro,6
+2022,AI超声辅助诊断设备,Arcadia,9
+2022,AI超声辅助诊断设备,PathAI,8
+2022,AI辅助诊断系统（肺部CT）,Digital Diagnostics,17
+2022,AI影像辅助诊断平台,国家统计局,31
+2022,AI病理分析仪,Arcadia,10
+2022,AI智能问诊系统,Livara Health,6
+2022,AI心电图分析系统,数坤科技,20
+2022,AI全科辅助诊疗系统,Fathom,8
+2022,AI智能问诊系统,艾瑞咨询,6
+2022,AI手术导航系统,科亚医疗,4
+2022,AI手术导航系统,BenevolentAI,4
+2022,AI智能问诊系统,森浦医疗AI平台,7
+2022,AI病理分析仪,ScienceDirect,9
+2022,AI超声辅助诊断设备,Infinitus,8
+2022,AI影像辅助诊断平台,腾讯觅影,33
+2022,AI病理分析仪,阿里健康,10
+2022,AI超声辅助诊断设备,CKGSB Knowledge,7
+2022,AI药物研发平台,Atomwise,3
+2022,AI辅助诊断系统（肺部CT）,深睿医疗,25
+2022,AI病理分析仪,观研报告网,8
+2022,AI超声辅助诊断设备,Exscientia,9
+2022,AI全科辅助诊疗系统,IBM Watson Health,7
+2022,AI病理分析仪,深睿医疗,11
+2022,AI辅助诊断系统（肺部CT）,平安智慧医疗,25
+2022,AI心电图分析系统,数坤科技,17
+2022,AI病理分析仪,CKGSB Knowledge,12
+2022,AI影像辅助诊断平台,森浦医疗AI平台,20
+2022,AI辅助诊断系统（肺部CT）,鹰瞳科技,25
+2022,AI超声辅助诊断设备,Arcadia,10
+2022,AI影像辅助诊断平台,蓝帆医疗AI,33
+2022,AI病理分析仪,Causaly,9
+2022,AI病理分析仪,中国信通院,12
+2022,AI影像辅助诊断平台,Heidi Health,33
+2022,AI影像辅助诊断平台,华大智造,22
+2022,AI超声辅助诊断设备,联影智能,9
+2022,AI超声辅助诊断设备,Chordline Health,11
+2022,AI心电图分析系统,Heidi Health,13
+2022,AI药物研发平台,Fathom,3
+2022,AI超声辅助诊断设备,Fathom,11
+2022,AI手术导航系统,中国信通院,4
+2023,AI智能问诊系统,BenevolentAI,6
+2023,AI全科辅助诊疗系统,平安智慧医疗,8
+2023,AI影像辅助诊断平台,Arcadia,34
+2023,AI心电图分析系统,数坤科技,20
+2023,AI手术导航系统,PathAI,4
+2023,AI辅助诊断系统（肺部CT）,Atomwise,17
+2023,AI超声辅助诊断设备,Lyra Health,8
+2023,AI药物研发平台,科亚医疗,2
+2023,AI辅助诊断系统（肺部CT）,联影智能,20
+2023,AI药物研发平台,平安智慧医疗,2
+2023,AI影像辅助诊断平台,Forward,20
+2023,AI智能问诊系统,Quris-AI,6
+2023,AI药物研发平台,CKGSB Knowledge,3
+2023,AI影像辅助诊断平台,华大智造,27
+2023,AI全科辅助诊疗系统,Optum Analytics,6
+2023,AI影像辅助诊断平台,汇医慧影,21
+2023,AI全科辅助诊疗系统,Cleerly,8
+2023,AI智能问诊系统,森浦医疗AI平台,7
+2023,AI辅助诊断系统（肺部CT）,Augmedix,18
+2023,AI心电图分析系统,森浦医疗AI平台,13
+2023,AI超声辅助诊断设备,Cleerly,12
+2023,AI智能问诊系统,Fathom,6
+2023,AI药物研发平台,Quris-AI,3
+2023,AI辅助诊断系统（肺部CT）,Owkin,23
+2023,AI辅助诊断系统（肺部CT）,Insitro,21
+2023,AI影像辅助诊断平台,CodaMetrix,32
+2023,AI心电图分析系统,数坤科技,18
+2023,AI心电图分析系统,依图科技,16
+2023,AI药物研发平台,医渡云,3
+2023,AI手术导航系统,Chordline Health,5
+2023,AI辅助诊断系统（肺部CT）,平安智慧医疗,21
+2023,AI辅助诊断系统（肺部CT）,Google Health,20
+2023,AI辅助诊断系统（肺部CT）,依图科技,22
+2023,AI手术导航系统,Causaly,4
+2023,AI心电图分析系统,数坤科技,12
+2023,AI全科辅助诊疗系统,HMNC Brain Health,7
+2023,AI心电图分析系统,Everly Health,18
+2023,AI超声辅助诊断设备,CodaMetrix,7
+2023,AI辅助诊断系统（肺部CT）,Eleos Health,15
+2023,AI影像辅助诊断平台,腾讯觅影,24
+2023,AI辅助诊断系统（肺部CT）,Praxis EMR,15
+2023,AI辅助诊断系统（肺部CT）,Element5,21
+2023,AI超声辅助诊断设备,Augmedix,7
+2023,AI智能问诊系统,Quris-AI,5
+2023,AI超声辅助诊断设备,平安智慧医疗,11
+2023,AI影像辅助诊断平台,艾瑞咨询,29
+2023,AI影像辅助诊断平台,腾讯觅影,28
+2023,AI全科辅助诊疗系统,中国信通院,6
+2023,AI超声辅助诊断设备,联影智能,12
+2023,AI超声辅助诊断设备,GE Healthcare,11
+2023,AI手术导航系统,ScienceDirect,4
+2023,AI手术导航系统,迈瑞医疗,5
+2023,AI手术导航系统,Arcadia,3
+2023,AI心电图分析系统,观研报告网,13
+2023,AI病理分析仪,推想科技,11
+2023,AI辅助诊断系统（肺部CT）,新华三AI医疗平台,20
+2023,AI手术导航系统,Cleerly,3
+2023,AI辅助诊断系统（肺部CT）,深睿医疗,22
+2023,AI全科辅助诊疗系统,Quibim,5
+2023,AI病理分析仪,艾瑞咨询,9
+2023,AI手术导航系统,CKGSB Knowledge,5
+2023,AI心电图分析系统,SimpleTherapy,16
+2023,AI病理分析仪,BenchSci,12
+2023,AI手术导航系统,数坤科技,3
+2023,AI病理分析仪,Hinge Health,10
+2023,AI病理分析仪,Angle Health,14
+2023,AI智能问诊系统,医渡云,4
+2023,AI药物研发平台,Arcadia,3
+2023,AI超声辅助诊断设备,汇医慧影,8
+2023,AI手术导航系统,Microsoft Healthcare,4
+2023,AI手术导航系统,Praxis EMR,3
+2023,AI手术导航系统,Siemens Healthineers,3
+2023,AI影像辅助诊断平台,Eleos Health,25
+2023,AI影像辅助诊断平台,平安智慧医疗,25
+2023,AI心电图分析系统,Viz.ai,17
+2023,AI心电图分析系统,迈瑞医疗,20
+2023,AI辅助诊断系统（肺部CT）,Optum Analytics,18
+2023,AI超声辅助诊断设备,依图科技,9
+2023,AI超声辅助诊断设备,Butterfly Network,8
+2023,AI影像辅助诊断平台,Forward,27
+2023,AI心电图分析系统,数坤科技,19
+2023,AI手术导航系统,迈瑞医疗,5
+2023,AI心电图分析系统,数坤科技,14
+2023,AI超声辅助诊断设备,腾讯觅影,11
+2023,AI超声辅助诊断设备,鹰瞳科技,10
+2023,AI智能问诊系统,Arcadia,5
+2023,AI病理分析仪,腾讯觅影,14
+2024,AI超声辅助诊断设备,联影智能,8
+2024,AI辅助诊断系统（肺部CT）,深睿医疗,21
+2024,AI辅助诊断系统（肺部CT）,GE Healthcare,25
+2024,AI全科辅助诊疗系统,BenchSci,6
+2024,AI超声辅助诊断设备,汇医慧影,11
+2024,AI全科辅助诊疗系统,ScienceDirect,6
+2024,AI全科辅助诊疗系统,Quris-AI,8
+2024,AI影像辅助诊断平台,森浦医疗AI平台,32
+2024,AI心电图分析系统,Atomwise,19
+2024,AI辅助诊断系统（肺部CT）,Fathom,24
+2024,AI超声辅助诊断设备,Eleos Health,12
+2024,AI智能问诊系统,Arcadia,4
+2024,AI手术导航系统,BenchSci,3
+2024,AI超声辅助诊断设备,国家统计局,9
+2024,AI心电图分析系统,观研报告网,13
+2024,AI病理分析仪,Vizzia Technologies,11
+2024,AI心电图分析系统,Atomwise,18
+2024,AI心电图分析系统,Elegen Corp.,12
+2024,AI药物研发平台,SmarterDx,3
+2024,AI药物研发平台,Quris-AI,3
+2024,AI心电图分析系统,深睿医疗,16
+2024,AI心电图分析系统,数坤科技,16
+2024,AI药物研发平台,医渡云,3
+2024,AI药物研发平台,Elegen Corp.,2
+2024,AI全科辅助诊疗系统,Vizzia Technologies,5
+2024,AI智能问诊系统,前瞻产业研究院,7
+2024,AI超声辅助诊断设备,Atomwise,9
+2024,AI智能问诊系统,Amazon Health,5
+2024,AI智能问诊系统,鹰瞳科技,6
+2024,AI智能问诊系统,依图科技,5
+2024,AI心电图分析系统,BenevolentAI,21
+2024,AI病理分析仪,森浦医疗AI平台,13
+2024,AI心电图分析系统,华大智造,19
+2024,AI药物研发平台,医渡云,3
+2024,AI心电图分析系统,Heidi Health,18
+2024,AI辅助诊断系统（肺部CT）,Everly Health,26
+2024,AI全科辅助诊疗系统,Chordline Health,6
+2024,AI超声辅助诊断设备,SimpleTherapy,10
+2024,AI智能问诊系统,Healx,4
+2024,AI病理分析仪,推想科技,11
+2024,AI手术导航系统,迈瑞医疗,3
+2024,AI超声辅助诊断设备,新华三AI医疗平台,12
+2024,AI病理分析仪,推想科技,9
+2024,AI药物研发平台,Cleerly,3
+2024,AI药物研发平台,Microsoft Healthcare,3
+2024,AI影像辅助诊断平台,HMNC Brain Health,24
+2024,AI手术导航系统,迈瑞医疗,4
+2024,AI智能问诊系统,Digital Diagnostics,5
+2024,AI病理分析仪,推想科技,10
+2024,AI手术导航系统,Amazon Health,4
+2024,AI影像辅助诊断平台,PathAI,23
+2024,AI超声辅助诊断设备,Daxue Consulting,7
+2024,AI手术导航系统,迈瑞医疗,5
+2024,AI超声辅助诊断设备,联影智能,7
+2024,AI手术导航系统,迈瑞医疗,5
+2024,AI影像辅助诊断平台,腾讯觅影,23
+2024,AI全科辅助诊疗系统,ZOE,5
+2024,AI超声辅助诊断设备,BenchSci,11
+2024,AI辅助诊断系统（肺部CT）,Arcadia,20
+2024,AI影像辅助诊断平台,Atomwise,30
+2024,AI辅助诊断系统（肺部CT）,腾讯觅影,26
+2024,AI手术导航系统,SmarterDx,5
+2024,AI病理分析仪,Vizzia Technologies,12
+2024,AI超声辅助诊断设备,SmarterDx,9
+2024,AI智能问诊系统,阿里健康,6
+2024,AI影像辅助诊断平台,腾讯觅影,30
+2024,AI心电图分析系统,Siemens Healthineers,14
+2024,AI心电图分析系统,华大智造,20
+2024,AI病理分析仪,推想科技,12
+2024,AI辅助诊断系统（肺部CT）,Intelligencia AI,16
+2024,AI影像辅助诊断平台,森浦医疗AI平台,22
+2024,AI病理分析仪,依图科技,11
+2024,AI全科辅助诊疗系统,Exscientia,7
+2024,AI病理分析仪,Fathom,14
+2024,AI病理分析仪,推想科技,10
+2024,AI辅助诊断系统（肺部CT）,联影智能,24
+2024,AI药物研发平台,医渡云,2
+2024,AI超声辅助诊断设备,Augmedix,10
+2024,AI超声辅助诊断设备,CKGSB Knowledge,10
+2024,AI药物研发平台,ScienceDirect,3
+2024,AI影像辅助诊断平台,腾讯觅影,35
+2024,AI辅助诊断系统（肺部CT）,Eleos Health,22
+2024,AI全科辅助诊疗系统,华大智造,7
+2024,AI心电图分析系统,依图科技,14

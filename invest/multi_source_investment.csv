@@ -1,0 +1,181 @@
+Year,Region,Data Source,Investment (USD Billion)
+2015,Global,CB Insights,
+2015,Global,Crunchbase,6.52
+2015,Global,PitchBook,6.0
+2016,Global,CB Insights,7.87
+2016,Global,Crunchbase,8.77
+2016,Global,PitchBook,8.25
+2017,Global,CB Insights,12.22
+2017,Global,Crunchbase,12.91
+2017,Global,PitchBook,11.58
+2018,Global,CB Insights,18.25
+2018,Global,Crunchbase,19.99
+2018,Global,PitchBook,19.02
+2019,Global,CB Insights,26.31
+2019,Global,Crunchbase,27.19
+2019,Global,PitchBook,
+2020,Global,CB Insights,38.18
+2020,Global,Crunchbase,43.61
+2020,Global,PitchBook,38.85
+2021,Global,CB Insights,74.67
+2021,Global,Crunchbase,76.33
+2021,Global,PitchBook,74.03
+2022,Global,CB Insights,124.87
+2022,Global,Crunchbase,122.51
+2022,Global,PitchBook,122.63
+2023,Global,CB Insights,93.9
+2023,Global,Crunchbase,99.74
+2023,Global,PitchBook,93.4
+2024,Global,CB Insights,119.39
+2024,Global,Crunchbase,116.35
+2024,Global,PitchBook,108.51
+2015,China,IT桔子,0.75
+2015,China,清科研究中心,0.74
+2015,China,企查查,0.81
+2016,China,IT桔子,1.21
+2016,China,清科研究中心,1.2
+2016,China,企查查,1.2
+2017,China,IT桔子,1.94
+2017,China,清科研究中心,1.75
+2017,China,企查查,1.97
+2018,China,IT桔子,3.08
+2018,China,清科研究中心,2.92
+2018,China,企查查,3.14
+2019,China,IT桔子,5.64
+2019,China,清科研究中心,5.53
+2019,China,企查查,5.66
+2020,China,IT桔子,9.77
+2020,China,清科研究中心,9.81
+2020,China,企查查,9.71
+2021,China,IT桔子,17.96
+2021,China,清科研究中心,18.95
+2021,China,企查查,18.28
+2022,China,IT桔子,11.82
+2022,China,清科研究中心,13.11
+2022,China,企查查,12.05
+2023,China,IT桔子,
+2023,China,清科研究中心,16.65
+2023,China,企查查,16.46
+2024,China,IT桔子,21.5
+2024,China,清科研究中心,22.84
+2024,China,企查查,20.85
+2015,USA,CB Insights,3.05
+2015,USA,Crunchbase,3.42
+2015,USA,PitchBook,3.07
+2016,USA,CB Insights,4.02
+2016,USA,Crunchbase,4.08
+2016,USA,PitchBook,4.15
+2017,USA,CB Insights,5.87
+2017,USA,Crunchbase,5.99
+2017,USA,PitchBook,5.38
+2018,USA,CB Insights,9.1
+2018,USA,Crunchbase,10.05
+2018,USA,PitchBook,9.39
+2019,USA,CB Insights,15.38
+2019,USA,Crunchbase,16.21
+2019,USA,PitchBook,14.43
+2020,USA,CB Insights,23.81
+2020,USA,Crunchbase,23.75
+2020,USA,PitchBook,23.19
+2021,USA,CB Insights,46.52
+2021,USA,Crunchbase,46.45
+2021,USA,PitchBook,44.96
+2022,USA,CB Insights,72.3
+2022,USA,Crunchbase,76.86
+2022,USA,PitchBook,68.84
+2023,USA,CB Insights,60.28
+2023,USA,Crunchbase,64.49
+2023,USA,PitchBook,59.91
+2024,USA,CB Insights,67.8
+2024,USA,Crunchbase,73.96
+2024,USA,PitchBook,66.88
+2015,India,Tracxn,0.13
+2015,India,VCCEdge,0.14
+2015,India,Inc42,0.14
+2016,India,Tracxn,0.2
+2016,India,VCCEdge,0.21
+2016,India,Inc42,0.22
+2017,India,Tracxn,0.35
+2017,India,VCCEdge,0.34
+2017,India,Inc42,0.33
+2018,India,Tracxn,0.6
+2018,India,VCCEdge,0.64
+2018,India,Inc42,0.57
+2019,India,Tracxn,1.01
+2019,India,VCCEdge,1.1
+2019,India,Inc42,1.02
+2020,India,Tracxn,1.83
+2020,India,VCCEdge,2.09
+2020,India,Inc42,1.89
+2021,India,Tracxn,2.8
+2021,India,VCCEdge,2.95
+2021,India,Inc42,2.61
+2022,India,Tracxn,4.21
+2022,India,VCCEdge,4.48
+2022,India,Inc42,4.39
+2023,India,Tracxn,3.6
+2023,India,VCCEdge,3.32
+2023,India,Inc42,3.58
+2024,India,Tracxn,4.92
+2024,India,VCCEdge,5.07
+2024,India,Inc42,4.72
+2015,Japan,METI Reports,0.29
+2015,Japan,JETRO,0.31
+2015,Japan,SeedTable,0.29
+2016,Japan,METI Reports,0.39
+2016,Japan,JETRO,0.42
+2016,Japan,SeedTable,0.39
+2017,Japan,METI Reports,0.6
+2017,Japan,JETRO,0.6
+2017,Japan,SeedTable,0.65
+2018,Japan,METI Reports,0.9
+2018,Japan,JETRO,0.93
+2018,Japan,SeedTable,0.9
+2019,Japan,METI Reports,1.47
+2019,Japan,JETRO,1.59
+2019,Japan,SeedTable,1.5
+2020,Japan,METI Reports,2.26
+2020,Japan,JETRO,2.29
+2020,Japan,SeedTable,2.14
+2021,Japan,METI Reports,3.18
+2021,Japan,JETRO,3.35
+2021,Japan,SeedTable,3.22
+2022,Japan,METI Reports,5.07
+2022,Japan,JETRO,5.44
+2022,Japan,SeedTable,4.91
+2023,Japan,METI Reports,4.16
+2023,Japan,JETRO,4.41
+2023,Japan,SeedTable,3.98
+2024,Japan,METI Reports,5.27
+2024,Japan,JETRO,5.62
+2024,Japan,SeedTable,5.25
+2015,EU,Dealroom,1.27
+2015,EU,EU Startups,1.16
+2015,EU,Sifted,1.21
+2016,EU,Dealroom,1.65
+2016,EU,EU Startups,1.73
+2016,EU,Sifted,1.52
+2017,EU,Dealroom,2.4
+2017,EU,EU Startups,2.28
+2017,EU,Sifted,2.3
+2018,EU,Dealroom,3.42
+2018,EU,EU Startups,3.6
+2018,EU,Sifted,3.39
+2019,EU,Dealroom,5.14
+2019,EU,EU Startups,5.58
+2019,EU,Sifted,5.11
+2020,EU,Dealroom,7.68
+2020,EU,EU Startups,8.39
+2020,EU,Sifted,7.6
+2021,EU,Dealroom,9.62
+2021,EU,EU Startups,9.97
+2021,EU,Sifted,9.25
+2022,EU,Dealroom,11.57
+2022,EU,EU Startups,12.37
+2022,EU,Sifted,11.4
+2023,EU,Dealroom,10.09
+2023,EU,EU Startups,10.69
+2023,EU,Sifted,10.24
+2024,EU,Dealroom,12.53
+2024,EU,EU Startups,12.76
+2024,EU,Sifted,13.03

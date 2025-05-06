@@ -1,0 +1,1581 @@
+Year,Region,Data Source,Investment (USD Billion)
+2015,China,IT桔子,0.75
+2015,China,清科研究中心,0.74
+2015,China,企查查,0.81
+2015,China,SmarterDx,0.68
+2015,China,Fathom,0.7
+2015,China,SAS,0.84
+2015,China,深睿医疗,0.81
+2015,China,Causaly,0.8
+2015,China,Heidi Health,0.8
+2015,China,汇医慧影,0.76
+2015,China,ZOE,0.82
+2015,China,Atomwise,0.72
+2015,China,Augmedix,0.79
+2015,China,联影智能,0.69
+2015,China,平安智慧医疗,0.74
+2015,China,迈瑞医疗,0.71
+2015,China,CodaMetrix,0.74
+2015,China,Eleos Health,0.72
+2016,China,IT桔子,1.21
+2016,China,清科研究中心,1.2
+2016,China,企查查,1.2
+2016,China,观研报告网,1.26
+2016,China,Cleerly,1.31
+2016,China,华大智造,1.09
+2016,China,Quris-AI,1.1
+2016,China,Optum Analytics,1.21
+2016,China,Atomwise,1.14
+2016,China,Element5,1.28
+2016,China,GE Healthcare,1.13
+2016,China,Arcadia,1.18
+2016,China,Exscientia,1.27
+2016,China,蓝帆医疗AI,1.22
+2016,China,Arcadia,1.24
+2016,China,推想科技,1.22
+2016,China,Arterys,1.14
+2016,China,Arterys,1.13
+2016,China,平安智慧医疗,1.31
+2016,China,平安智慧医疗,1.1
+2016,China,Healx,1.16
+2016,China,鹰瞳科技,1.26
+2016,China,数坤科技,1.15
+2016,China,前瞻产业研究院,1.32
+2016,China,Hinge Health,1.26
+2016,China,中国信通院,1.15
+2016,China,腾讯觅影,1.17
+2016,China,Regard,1.1
+2016,China,Angle Health,1.13
+2016,China,腾讯觅影,1.29
+2016,China,Angle Health,1.2
+2016,China,Daxue Consulting,1.24
+2016,China,Intelligencia AI,1.09
+2016,China,Praxis EMR,1.31
+2016,China,Vizzia Technologies,1.14
+2017,China,IT桔子,1.94
+2017,China,清科研究中心,1.75
+2017,China,企查查,1.97
+2017,China,前瞻产业研究院,1.91
+2017,China,Butterfly Network,1.92
+2017,China,Intelligencia AI,2.01
+2017,China,联影智能,1.71
+2017,China,SmarterDx,1.79
+2017,China,深睿医疗,1.77
+2017,China,Owkin,1.97
+2017,China,Arcadia,1.96
+2017,China,Chordline Health,1.96
+2017,China,Praxis EMR,1.77
+2017,China,森浦医疗AI平台,1.86
+2017,China,推想科技,2.0
+2017,China,Element5,2.02
+2017,China,Amazon Health,1.87
+2017,China,Augmedix,1.95
+2017,China,Elegen Corp.,1.75
+2017,China,CodaMetrix,1.88
+2017,China,腾讯觅影,1.85
+2017,China,ScienceDirect,1.98
+2018,China,IT桔子,3.08
+2018,China,清科研究中心,2.92
+2018,China,企查查,3.14
+2018,China,Fathom,2.79
+2018,China,GE Healthcare,3.33
+2018,China,汇医慧影,3.12
+2018,China,平安智慧医疗,2.99
+2018,China,森浦医疗AI平台,3.13
+2018,China,Quibim,3.04
+2018,China,Chordline Health,2.97
+2018,China,Digital Diagnostics,2.81
+2018,China,推想科技,3.16
+2018,China,ScienceDirect,2.95
+2018,China,Praxis EMR,3.06
+2018,China,Angle Health,2.79
+2018,China,Philips Healthcare,3.25
+2018,China,Element5,3.02
+2018,China,前瞻产业研究院,3.26
+2018,China,HMNC Brain Health,3.32
+2018,China,Chordline Health,3.25
+2018,China,SAS,3.16
+2018,China,医渡云,2.9
+2018,China,Viz.ai,3.37
+2018,China,ZOE,2.83
+2018,China,Daxue Consulting,2.77
+2018,China,科亚医疗,2.79
+2019,China,IT桔子,5.64
+2019,China,清科研究中心,5.53
+2019,China,企查查,5.66
+2019,China,Arterys,5.05
+2019,China,Fathom,5.95
+2019,China,Owkin,5.55
+2019,China,国家统计局,5.94
+2019,China,Butterfly Network,5.68
+2019,China,Livara Health,5.62
+2019,China,Livara Health,5.61
+2019,China,Daxue Consulting,5.41
+2019,China,HMNC Brain Health,5.21
+2019,China,华大智造,5.47
+2019,China,Siemens Healthineers,5.23
+2019,China,SimpleTherapy,5.63
+2019,China,森浦医疗AI平台,5.54
+2019,China,科亚医疗,5.72
+2019,China,Hinge Health,5.46
+2019,China,SmarterDx,5.32
+2019,China,腾讯觅影,5.71
+2019,China,艾瑞咨询,6.01
+2019,China,Arterys,6.07
+2019,China,Everly Health,5.92
+2020,China,IT桔子,9.77
+2020,China,清科研究中心,9.81
+2020,China,企查查,9.71
+2020,China,Owkin,9.71
+2020,China,蓝帆医疗AI,10.41
+2020,China,Praxis EMR,9.16
+2020,China,Eleos Health,9.71
+2020,China,Digital Diagnostics,10.29
+2020,China,Color Health,9.67
+2020,China,迈瑞医疗,9.77
+2020,China,迈瑞医疗,10.55
+2020,China,CodaMetrix,9.65
+2020,China,Infinitus,10.61
+2020,China,推想科技,9.83
+2020,China,Google Health,9.21
+2020,China,Google Health,10.64
+2020,China,汇医慧影,10.71
+2020,China,前瞻产业研究院,9.38
+2020,China,中国信通院,9.54
+2020,China,Microsoft Healthcare,10.43
+2020,China,PathAI,9.64
+2020,China,Philips Healthcare,9.46
+2020,China,科亚医疗,9.51
+2020,China,Google Health,9.81
+2020,China,Augmedix,9.59
+2020,China,平安智慧医疗,9.37
+2020,China,华大智造,9.12
+2020,China,Augmedix,10.58
+2020,China,华大智造,9.45
+2020,China,推想科技,9.3
+2020,China,Hinge Health,9.44
+2020,China,BenevolentAI,9.7
+2020,China,Quibim,10.38
+2020,China,数坤科技,9.17
+2020,China,Vizzia Technologies,9.86
+2021,China,IT桔子,17.96
+2021,China,清科研究中心,18.95
+2021,China,企查查,18.28
+2021,China,Forward,17.66
+2021,China,观研报告网,19.96
+2021,China,国家统计局,16.64
+2021,China,联影智能,18.62
+2021,China,艾瑞咨询,17.71
+2021,China,Digital Diagnostics,18.64
+2021,China,深睿医疗,17.78
+2021,China,SimpleTherapy,18.29
+2021,China,Augmedix,17.13
+2021,China,Intelligencia AI,17.44
+2021,China,森亿智能,19.35
+2021,China,Quibim,18.1
+2021,China,推想科技,18.13
+2021,China,依图科技,18.13
+2021,China,Owkin,18.42
+2021,China,Atomwise,19.88
+2021,China,Quris-AI,17.83
+2021,China,Healx,17.8
+2021,China,Quibim,17.09
+2022,China,IT桔子,11.82
+2022,China,清科研究中心,13.11
+2022,China,企查查,12.05
+2022,China,Causaly,13.13
+2022,China,Atomwise,11.28
+2022,China,Amazon Health,12.5
+2022,China,Cleerly,11.8
+2022,China,Heidi Health,13.4
+2022,China,Everly Health,11.64
+2022,China,Amazon Health,12.5
+2022,China,Philips Healthcare,12.37
+2022,China,Angle Health,11.62
+2022,China,Quris-AI,12.14
+2022,China,Angle Health,13.65
+2022,China,SimpleTherapy,13.51
+2022,China,阿里健康,11.87
+2022,China,Everly Health,11.36
+2022,China,鹰瞳科技,11.5
+2022,China,CKGSB Knowledge,12.67
+2023,China,IT桔子,
+2023,China,清科研究中心,16.65
+2023,China,企查查,16.46
+2023,China,IBM Watson Health,15.77
+2023,China,数坤科技,15.17
+2023,China,Intelligencia AI,17.87
+2023,China,Cleerly,18.14
+2023,China,IBM Watson Health,15.89
+2023,China,国家统计局,15.0
+2023,China,汇医慧影,17.0
+2023,China,SAS,17.65
+2023,China,ScienceDirect,18.01
+2023,China,科亚医疗,16.58
+2023,China,Amazon Health,15.04
+2023,China,艾瑞咨询,16.07
+2023,China,Vizzia Technologies,15.17
+2023,China,中国信通院,15.78
+2023,China,推想科技,16.83
+2023,China,Arterys,17.2
+2023,China,前瞻产业研究院,16.47
+2023,China,依图科技,17.8
+2023,China,Butterfly Network,17.08
+2023,China,Element5,15.69
+2023,China,Angle Health,18.18
+2023,China,Owkin,15.23
+2023,China,Augmedix,17.27
+2023,China,Praxis EMR,15.58
+2024,China,IT桔子,21.5
+2024,China,清科研究中心,22.84
+2024,China,企查查,20.85
+2024,China,Forward,22.73
+2024,China,Viz.ai,20.7
+2024,China,Daxue Consulting,21.6
+2024,China,Causaly,21.8
+2024,China,鹰瞳科技,21.18
+2024,China,迈瑞医疗,19.87
+2024,China,汇医慧影,23.03
+2024,China,Daxue Consulting,19.9
+2024,China,华大智造,23.94
+2024,China,Intelligencia AI,22.27
+2024,China,鹰瞳科技,23.0
+2024,China,Intelligencia AI,20.74
+2024,China,Intelligencia AI,23.33
+2024,China,新华三AI医疗平台,19.56
+2024,China,依图科技,21.93
+2024,China,ZOE,23.48
+2024,China,BenevolentAI,23.25
+2024,China,腾讯觅影,20.85
+2024,China,Viz.ai,20.81
+2024,China,新华三AI医疗平台,23.77
+2024,China,Elegen Corp.,23.81
+2024,China,Insitro,23.56
+2024,China,HMNC Brain Health,23.58
+2024,China,PathAI,23.47
+2024,China,Siemens Healthineers,22.8
+2024,China,依图科技,22.53
+2024,China,Color Health,19.97
+2024,China,Elegen Corp.,21.08
+2024,China,森亿智能,22.55
+2024,China,Digital Diagnostics,23.82
+2024,China,新华三AI医疗平台,23.04
+2024,China,联影智能,20.8
+2015,EU,Dealroom,1.27
+2015,EU,EU Startups,1.16
+2015,EU,Sifted,1.21
+2015,EU,Regard,1.14
+2015,EU,科亚医疗,1.2
+2015,EU,BenevolentAI,1.31
+2015,EU,BenevolentAI,1.13
+2015,EU,Infinitus,1.22
+2015,EU,Chordline Health,1.18
+2015,EU,Praxis EMR,1.27
+2015,EU,Livara Health,1.16
+2015,EU,Fathom,1.29
+2015,EU,Butterfly Network,1.19
+2015,EU,CodaMetrix,1.28
+2015,EU,观研报告网,1.31
+2015,EU,森浦医疗AI平台,1.11
+2015,EU,Heidi Health,1.2
+2015,EU,ScienceDirect,1.32
+2015,EU,Butterfly Network,1.15
+2016,EU,Dealroom,1.65
+2016,EU,EU Startups,1.73
+2016,EU,Sifted,1.52
+2016,EU,SmarterDx,1.67
+2016,EU,Digital Diagnostics,1.47
+2016,EU,新华三AI医疗平台,1.75
+2016,EU,ScienceDirect,1.81
+2016,EU,HMNC Brain Health,1.8
+2016,EU,艾瑞咨询,1.74
+2016,EU,Quibim,1.54
+2016,EU,中国信通院,1.76
+2016,EU,Forward,1.66
+2016,EU,Daxue Consulting,1.66
+2016,EU,Arterys,1.51
+2016,EU,Forward,1.74
+2016,EU,Vizzia Technologies,1.57
+2016,EU,Butterfly Network,1.75
+2016,EU,CodaMetrix,1.77
+2016,EU,森浦医疗AI平台,1.64
+2016,EU,森亿智能,1.72
+2016,EU,Angle Health,1.78
+2016,EU,Optum Analytics,1.45
+2016,EU,BenchSci,1.58
+2016,EU,鹰瞳科技,1.78
+2016,EU,Angle Health,1.64
+2016,EU,国家统计局,1.66
+2016,EU,CKGSB Knowledge,1.48
+2017,EU,Dealroom,2.4
+2017,EU,EU Startups,2.28
+2017,EU,Sifted,2.3
+2017,EU,Vizzia Technologies,2.32
+2017,EU,BenchSci,2.47
+2017,EU,SimpleTherapy,2.24
+2017,EU,Chordline Health,2.55
+2017,EU,Insitro,2.39
+2017,EU,Quris-AI,2.52
+2017,EU,SimpleTherapy,2.41
+2017,EU,Arterys,2.14
+2017,EU,医渡云,2.34
+2017,EU,Lyra Health,2.39
+2017,EU,Digital Diagnostics,2.12
+2017,EU,Daxue Consulting,2.28
+2017,EU,Color Health,2.12
+2017,EU,SimpleTherapy,2.09
+2017,EU,Heidi Health,2.09
+2017,EU,Optum Analytics,2.1
+2017,EU,医渡云,2.5
+2017,EU,Cleerly,2.51
+2017,EU,前瞻产业研究院,2.38
+2017,EU,Quibim,2.19
+2017,EU,汇医慧影,2.13
+2017,EU,GE Healthcare,2.4
+2017,EU,平安智慧医疗,2.31
+2018,EU,Dealroom,3.42
+2018,EU,EU Startups,3.6
+2018,EU,Sifted,3.39
+2018,EU,艾瑞咨询,3.42
+2018,EU,Insitro,3.68
+2018,EU,阿里健康,3.53
+2018,EU,深睿医疗,3.26
+2018,EU,Praxis EMR,3.75
+2018,EU,Quibim,3.42
+2018,EU,Forward,3.33
+2018,EU,Lyra Health,3.55
+2018,EU,SmarterDx,3.37
+2018,EU,BenchSci,3.73
+2018,EU,腾讯觅影,3.55
+2018,EU,Owkin,3.15
+2018,EU,Butterfly Network,3.77
+2018,EU,观研报告网,3.51
+2018,EU,蓝帆医疗AI,3.63
+2018,EU,Heidi Health,3.42
+2018,EU,ScienceDirect,3.4
+2018,EU,Arterys,3.59
+2018,EU,Element5,3.25
+2018,EU,Heidi Health,3.59
+2018,EU,森亿智能,3.57
+2018,EU,前瞻产业研究院,3.31
+2019,EU,Dealroom,5.14
+2019,EU,EU Startups,5.58
+2019,EU,Sifted,5.11
+2019,EU,阿里健康,5.3
+2019,EU,Intelligencia AI,5.18
+2019,EU,Regard,4.82
+2019,EU,Regard,5.03
+2019,EU,Angle Health,4.78
+2019,EU,Angle Health,5.13
+2019,EU,腾讯觅影,5.61
+2019,EU,平安智慧医疗,5.73
+2019,EU,SAS,4.86
+2019,EU,Praxis EMR,5.24
+2019,EU,观研报告网,5.13
+2019,EU,平安智慧医疗,5.54
+2019,EU,CKGSB Knowledge,5.64
+2019,EU,Digital Diagnostics,5.3
+2019,EU,Chordline Health,5.45
+2019,EU,阿里健康,4.94
+2019,EU,科亚医疗,5.41
+2019,EU,CodaMetrix,5.01
+2020,EU,Dealroom,7.68
+2020,EU,EU Startups,8.39
+2020,EU,Sifted,7.6
+2020,EU,CodaMetrix,8.4
+2020,EU,依图科技,7.7
+2020,EU,科亚医疗,8.19
+2020,EU,汇医慧影,8.4
+2020,EU,科亚医疗,7.76
+2020,EU,中国信通院,8.35
+2020,EU,Elegen Corp.,7.09
+2020,EU,CKGSB Knowledge,8.01
+2020,EU,Lyra Health,8.33
+2020,EU,Cleerly,8.39
+2020,EU,观研报告网,7.57
+2020,EU,Optum Analytics,7.48
+2020,EU,SAS,8.18
+2020,EU,BenchSci,7.39
+2020,EU,Atomwise,7.87
+2020,EU,Arterys,8.57
+2020,EU,前瞻产业研究院,7.79
+2020,EU,数坤科技,7.47
+2020,EU,观研报告网,8.35
+2020,EU,中国信通院,7.88
+2020,EU,国家统计局,8.11
+2020,EU,Amazon Health,8.18
+2020,EU,Everly Health,7.27
+2020,EU,PathAI,8.63
+2021,EU,Dealroom,9.62
+2021,EU,EU Startups,9.97
+2021,EU,Sifted,9.25
+2021,EU,Quibim,9.18
+2021,EU,Quris-AI,9.34
+2021,EU,华大智造,9.87
+2021,EU,CKGSB Knowledge,10.28
+2021,EU,科亚医疗,9.05
+2021,EU,腾讯觅影,8.87
+2021,EU,华大智造,8.72
+2021,EU,推想科技,10.3
+2021,EU,中国信通院,8.77
+2021,EU,Arterys,9.41
+2021,EU,Color Health,9.68
+2021,EU,Intelligencia AI,8.64
+2021,EU,森亿智能,10.44
+2021,EU,Element5,9.79
+2021,EU,Arcadia,10.22
+2021,EU,前瞻产业研究院,9.04
+2021,EU,数坤科技,8.64
+2021,EU,PathAI,10.08
+2021,EU,Infinitus,9.28
+2021,EU,Amazon Health,10.21
+2021,EU,Forward,9.56
+2021,EU,Microsoft Healthcare,9.27
+2021,EU,Infinitus,9.15
+2021,EU,森亿智能,9.11
+2021,EU,CodaMetrix,9.66
+2021,EU,Quibim,8.92
+2021,EU,Arterys,9.97
+2021,EU,Lyra Health,10.37
+2021,EU,Vizzia Technologies,9.48
+2022,EU,Dealroom,11.57
+2022,EU,EU Startups,12.37
+2022,EU,Sifted,11.4
+2022,EU,Heidi Health,11.14
+2022,EU,数坤科技,12.73
+2022,EU,蓝帆医疗AI,11.26
+2022,EU,数坤科技,12.83
+2022,EU,Vizzia Technologies,12.42
+2022,EU,Livara Health,11.49
+2022,EU,Healx,11.18
+2022,EU,Quibim,12.84
+2022,EU,GE Healthcare,12.79
+2022,EU,Amazon Health,11.25
+2022,EU,Cleerly,11.28
+2022,EU,Color Health,12.05
+2022,EU,Arterys,11.04
+2022,EU,Owkin,12.01
+2022,EU,Google Health,11.12
+2022,EU,Cleerly,11.67
+2022,EU,森浦医疗AI平台,11.53
+2022,EU,Heidi Health,11.57
+2022,EU,蓝帆医疗AI,12.03
+2022,EU,阿里健康,10.8
+2022,EU,观研报告网,12.31
+2022,EU,腾讯觅影,12.33
+2022,EU,BenevolentAI,11.23
+2022,EU,Eleos Health,12.71
+2022,EU,GE Healthcare,10.89
+2022,EU,Causaly,12.58
+2022,EU,Viz.ai,11.36
+2023,EU,Dealroom,10.09
+2023,EU,EU Startups,10.69
+2023,EU,Sifted,10.24
+2023,EU,Heidi Health,9.23
+2023,EU,Google Health,9.98
+2023,EU,Vizzia Technologies,11.44
+2023,EU,依图科技,9.44
+2023,EU,Color Health,9.43
+2023,EU,Quris-AI,9.85
+2023,EU,Elegen Corp.,10.59
+2023,EU,观研报告网,9.47
+2023,EU,Philips Healthcare,10.2
+2023,EU,Angle Health,9.99
+2023,EU,汇医慧影,10.11
+2023,EU,Optum Analytics,11.28
+2023,EU,蓝帆医疗AI,10.1
+2023,EU,蓝帆医疗AI,11.06
+2023,EU,Chordline Health,10.11
+2023,EU,观研报告网,10.78
+2023,EU,阿里健康,11.16
+2023,EU,观研报告网,9.93
+2023,EU,Causaly,9.57
+2023,EU,艾瑞咨询,10.67
+2023,EU,汇医慧影,10.3
+2023,EU,Regard,9.5
+2023,EU,Causaly,9.66
+2023,EU,Causaly,10.04
+2023,EU,ScienceDirect,10.86
+2023,EU,Elegen Corp.,11.23
+2023,EU,Digital Diagnostics,9.61
+2024,EU,Dealroom,12.53
+2024,EU,EU Startups,12.76
+2024,EU,Sifted,13.03
+2024,EU,Siemens Healthineers,12.27
+2024,EU,CKGSB Knowledge,11.98
+2024,EU,腾讯觅影,12.62
+2024,EU,中国信通院,13.62
+2024,EU,ZOE,13.35
+2024,EU,BenevolentAI,12.46
+2024,EU,蓝帆医疗AI,12.77
+2024,EU,Healx,12.66
+2024,EU,森亿智能,11.62
+2024,EU,Quris-AI,12.59
+2024,EU,观研报告网,12.41
+2024,EU,推想科技,12.57
+2024,EU,Fathom,12.58
+2024,EU,Fathom,11.55
+2024,EU,CodaMetrix,12.07
+2024,EU,Vizzia Technologies,11.62
+2024,EU,深睿医疗,13.05
+2024,EU,Regard,12.9
+2024,EU,CodaMetrix,13.15
+2024,EU,Fathom,12.19
+2024,EU,Forward,12.12
+2024,EU,艾瑞咨询,13.63
+2024,EU,Causaly,12.41
+2024,EU,医渡云,13.94
+2024,EU,Fathom,11.97
+2024,EU,BenevolentAI,12.16
+2024,EU,Hinge Health,13.49
+2024,EU,Quibim,13.68
+2024,EU,新华三AI医疗平台,12.7
+2024,EU,Owkin,11.52
+2015,Global,CB Insights,
+2015,Global,Crunchbase,6.52
+2015,Global,PitchBook,6.0
+2015,Global,深睿医疗,6.02
+2015,Global,Atomwise,6.27
+2015,Global,Heidi Health,5.7
+2015,Global,Arcadia,5.93
+2015,Global,Insitro,5.67
+2015,Global,HMNC Brain Health,6.85
+2015,Global,Amazon Health,6.18
+2015,Global,Heidi Health,5.92
+2015,Global,Exscientia,6.8
+2015,Global,平安智慧医疗,5.84
+2015,Global,Fathom,5.92
+2015,Global,科亚医疗,5.95
+2015,Global,Fathom,6.49
+2015,Global,科亚医疗,6.17
+2015,Global,Praxis EMR,6.4
+2015,Global,Forward,5.69
+2015,Global,Daxue Consulting,6.29
+2015,Global,国家统计局,5.78
+2015,Global,SimpleTherapy,5.64
+2015,Global,Arcadia,6.84
+2015,Global,Owkin,6.15
+2015,Global,阿里健康,6.02
+2015,Global,艾瑞咨询,6.6
+2015,Global,Heidi Health,6.63
+2015,Global,BenchSci,6.25
+2015,Global,ZOE,6.01
+2015,Global,汇医慧影,6.02
+2015,Global,CodaMetrix,6.79
+2015,Global,Causaly,6.1
+2015,Global,艾瑞咨询,6.06
+2015,Global,森亿智能,6.63
+2015,Global,Heidi Health,5.91
+2015,Global,Augmedix,6.71
+2016,Global,CB Insights,7.87
+2016,Global,Crunchbase,8.77
+2016,Global,PitchBook,8.25
+2016,Global,汇医慧影,8.12
+2016,Global,Augmedix,7.75
+2016,Global,Quibim,7.84
+2016,Global,Google Health,7.49
+2016,Global,PathAI,8.0
+2016,Global,阿里健康,8.55
+2016,Global,新华三AI医疗平台,8.56
+2016,Global,Heidi Health,8.75
+2016,Global,汇医慧影,8.15
+2016,Global,SimpleTherapy,7.84
+2016,Global,Lyra Health,8.23
+2016,Global,医渡云,8.85
+2016,Global,鹰瞳科技,7.94
+2016,Global,SmarterDx,8.42
+2016,Global,Daxue Consulting,8.06
+2016,Global,依图科技,8.27
+2016,Global,Augmedix,8.46
+2016,Global,Quris-AI,8.37
+2016,Global,SAS,7.6
+2016,Global,Quris-AI,7.81
+2016,Global,深睿医疗,7.52
+2016,Global,观研报告网,9.08
+2016,Global,Optum Analytics,7.68
+2016,Global,Vizzia Technologies,8.57
+2017,Global,CB Insights,12.22
+2017,Global,Crunchbase,12.91
+2017,Global,PitchBook,11.58
+2017,Global,BenchSci,12.15
+2017,Global,Healx,10.96
+2017,Global,GE Healthcare,13.14
+2017,Global,Daxue Consulting,12.8
+2017,Global,Healx,12.98
+2017,Global,Owkin,12.99
+2017,Global,Praxis EMR,12.38
+2017,Global,森浦医疗AI平台,12.07
+2017,Global,Lyra Health,12.34
+2017,Global,Microsoft Healthcare,13.48
+2017,Global,BenevolentAI,12.29
+2017,Global,Insitro,13.21
+2017,Global,Causaly,11.97
+2017,Global,Everly Health,12.05
+2017,Global,Daxue Consulting,12.21
+2017,Global,Regard,11.68
+2018,Global,CB Insights,18.25
+2018,Global,Crunchbase,19.99
+2018,Global,PitchBook,19.02
+2018,Global,Atomwise,20.49
+2018,Global,深睿医疗,17.49
+2018,Global,IBM Watson Health,20.95
+2018,Global,GE Healthcare,17.46
+2018,Global,Element5,17.5
+2018,Global,迈瑞医疗,20.05
+2018,Global,森浦医疗AI平台,20.13
+2018,Global,Quris-AI,18.34
+2018,Global,Livara Health,20.05
+2018,Global,BenevolentAI,17.78
+2018,Global,Arcadia,18.92
+2018,Global,Forward,20.7
+2018,Global,依图科技,17.1
+2018,Global,Arterys,19.63
+2018,Global,Daxue Consulting,18.12
+2018,Global,Infinitus,20.7
+2018,Global,Atomwise,20.51
+2018,Global,Lyra Health,19.77
+2018,Global,平安智慧医疗,17.45
+2018,Global,Insitro,18.27
+2018,Global,中国信通院,18.29
+2018,Global,森浦医疗AI平台,20.46
+2018,Global,Philips Healthcare,17.43
+2018,Global,腾讯觅影,17.4
+2018,Global,Element5,20.75
+2019,Global,CB Insights,26.31
+2019,Global,Crunchbase,27.19
+2019,Global,PitchBook,
+2019,Global,SmarterDx,26.8
+2019,Global,Color Health,27.18
+2019,Global,Owkin,25.05
+2019,Global,Daxue Consulting,28.83
+2019,Global,Google Health,25.42
+2019,Global,依图科技,25.6
+2019,Global,蓝帆医疗AI,26.1
+2019,Global,蓝帆医疗AI,29.15
+2019,Global,BenchSci,26.97
+2019,Global,Infinitus,28.99
+2019,Global,新华三AI医疗平台,26.52
+2019,Global,Philips Healthcare,25.5
+2019,Global,艾瑞咨询,26.64
+2019,Global,Quibim,27.55
+2020,Global,CB Insights,38.18
+2020,Global,Crunchbase,43.61
+2020,Global,PitchBook,38.85
+2020,Global,Regard,37.58
+2020,Global,Fathom,44.76
+2020,Global,Livara Health,44.47
+2020,Global,前瞻产业研究院,42.78
+2020,Global,SmarterDx,38.12
+2020,Global,Healx,40.35
+2020,Global,数坤科技,41.6
+2020,Global,Optum Analytics,41.37
+2020,Global,Daxue Consulting,41.55
+2020,Global,Eleos Health,40.36
+2020,Global,Livara Health,40.51
+2020,Global,Chordline Health,40.68
+2020,Global,Chordline Health,40.37
+2020,Global,Color Health,44.05
+2020,Global,深睿医疗,42.9
+2020,Global,国家统计局,42.52
+2020,Global,中国信通院,41.74
+2020,Global,Atomwise,41.12
+2020,Global,Butterfly Network,36.39
+2020,Global,Arcadia,36.44
+2020,Global,Intelligencia AI,44.15
+2020,Global,CodaMetrix,37.45
+2020,Global,鹰瞳科技,42.07
+2020,Global,Philips Healthcare,41.6
+2020,Global,迈瑞医疗,43.48
+2020,Global,Viz.ai,38.1
+2020,Global,平安智慧医疗,44.9
+2020,Global,Daxue Consulting,40.88
+2020,Global,Cleerly,40.88
+2020,Global,Quibim,43.01
+2021,Global,CB Insights,74.67
+2021,Global,Crunchbase,76.33
+2021,Global,PitchBook,74.03
+2021,Global,新华三AI医疗平台,76.11
+2021,Global,汇医慧影,74.34
+2021,Global,平安智慧医疗,67.48
+2021,Global,CodaMetrix,69.17
+2021,Global,Vizzia Technologies,71.0
+2021,Global,Quris-AI,77.75
+2021,Global,Quris-AI,80.45
+2021,Global,科亚医疗,75.75
+2021,Global,Vizzia Technologies,68.56
+2021,Global,艾瑞咨询,80.43
+2021,Global,Regard,72.57
+2021,Global,Optum Analytics,70.81
+2021,Global,Regard,78.87
+2021,Global,森浦医疗AI平台,80.59
+2021,Global,Cleerly,74.88
+2021,Global,Hinge Health,79.35
+2021,Global,BenchSci,68.91
+2021,Global,Intelligencia AI,72.55
+2021,Global,腾讯觅影,75.67
+2021,Global,Livara Health,67.43
+2021,Global,推想科技,76.39
+2021,Global,Quris-AI,72.92
+2021,Global,HMNC Brain Health,69.59
+2021,Global,Arcadia,73.05
+2021,Global,PathAI,71.45
+2021,Global,Insitro,72.92
+2021,Global,Chordline Health,78.3
+2021,Global,Hinge Health,72.11
+2021,Global,Quibim,77.7
+2022,Global,CB Insights,124.87
+2022,Global,Crunchbase,122.51
+2022,Global,PitchBook,122.63
+2022,Global,艾瑞咨询,130.08
+2022,Global,推想科技,116.2
+2022,Global,数坤科技,127.06
+2022,Global,中国信通院,131.16
+2022,Global,Digital Diagnostics,131.39
+2022,Global,Element5,128.74
+2022,Global,联影智能,125.95
+2022,Global,Causaly,113.6
+2022,Global,SimpleTherapy,134.33
+2022,Global,Atomwise,131.15
+2022,Global,Exscientia,114.66
+2022,Global,Siemens Healthineers,119.32
+2022,Global,GE Healthcare,128.08
+2022,Global,Elegen Corp.,126.56
+2022,Global,Viz.ai,123.01
+2022,Global,森浦医疗AI平台,129.95
+2022,Global,HMNC Brain Health,111.15
+2022,Global,Cleerly,129.52
+2022,Global,Fathom,124.58
+2022,Global,Angle Health,125.45
+2022,Global,Praxis EMR,115.16
+2022,Global,Livara Health,128.41
+2023,Global,CB Insights,93.9
+2023,Global,Crunchbase,99.74
+2023,Global,PitchBook,93.4
+2023,Global,科亚医疗,101.14
+2023,Global,中国信通院,99.87
+2023,Global,Cleerly,103.9
+2023,Global,SAS,93.4
+2023,Global,新华三AI医疗平台,87.85
+2023,Global,GE Healthcare,103.88
+2023,Global,SimpleTherapy,102.85
+2023,Global,Angle Health,89.0
+2023,Global,Fathom,102.68
+2023,Global,Arterys,99.24
+2023,Global,Intelligencia AI,98.07
+2023,Global,Google Health,98.08
+2023,Global,CodaMetrix,94.22
+2023,Global,Causaly,90.99
+2023,Global,Augmedix,96.52
+2023,Global,Regard,103.53
+2023,Global,Augmedix,91.74
+2023,Global,Philips Healthcare,104.8
+2023,Global,Butterfly Network,101.07
+2023,Global,Angle Health,98.26
+2023,Global,CKGSB Knowledge,89.3
+2023,Global,Google Health,89.29
+2023,Global,Quibim,96.74
+2023,Global,Microsoft Healthcare,88.79
+2024,Global,CB Insights,119.39
+2024,Global,Crunchbase,116.35
+2024,Global,PitchBook,108.51
+2024,Global,汇医慧影,113.92
+2024,Global,Infinitus,101.97
+2024,Global,Color Health,120.95
+2024,Global,ZOE,107.67
+2024,Global,迈瑞医疗,127.11
+2024,Global,Microsoft Healthcare,108.54
+2024,Global,SAS,105.78
+2024,Global,Insitro,115.69
+2024,Global,阿里健康,107.5
+2024,Global,腾讯觅影,106.48
+2024,Global,Element5,121.77
+2024,Global,CodaMetrix,113.84
+2024,Global,迈瑞医疗,110.57
+2024,Global,Lyra Health,104.65
+2024,Global,蓝帆医疗AI,111.43
+2024,Global,新华三AI医疗平台,113.4
+2024,Global,Elegen Corp.,123.24
+2024,Global,中国信通院,109.01
+2024,Global,Intelligencia AI,122.96
+2024,Global,Praxis EMR,107.25
+2024,Global,联影智能,114.64
+2024,Global,Element5,118.42
+2015,India,Tracxn,0.13
+2015,India,VCCEdge,0.14
+2015,India,Inc42,0.14
+2015,India,BenchSci,0.14
+2015,India,Intelligencia AI,0.14
+2015,India,医渡云,0.15
+2015,India,Elegen Corp.,0.15
+2015,India,Color Health,0.14
+2015,India,Quris-AI,0.14
+2015,India,医渡云,0.13
+2015,India,Quibim,0.13
+2015,India,IBM Watson Health,0.14
+2015,India,Viz.ai,0.14
+2015,India,深睿医疗,0.13
+2015,India,Google Health,0.13
+2015,India,平安智慧医疗,0.13
+2015,India,Owkin,0.13
+2015,India,Digital Diagnostics,0.14
+2015,India,Regard,0.15
+2015,India,Regard,0.14
+2016,India,Tracxn,0.2
+2016,India,VCCEdge,0.21
+2016,India,Inc42,0.22
+2016,India,推想科技,0.2
+2016,India,HMNC Brain Health,0.22
+2016,India,Cleerly,0.22
+2016,India,Arterys,0.21
+2016,India,前瞻产业研究院,0.19
+2016,India,BenchSci,0.22
+2016,India,汇医慧影,0.19
+2016,India,Causaly,0.21
+2016,India,Healx,0.21
+2016,India,Owkin,0.21
+2016,India,Healx,0.21
+2016,India,Lyra Health,0.21
+2016,India,观研报告网,0.23
+2016,India,Lyra Health,0.21
+2016,India,Daxue Consulting,0.2
+2016,India,Google Health,0.22
+2016,India,Digital Diagnostics,0.2
+2017,India,Tracxn,0.35
+2017,India,VCCEdge,0.34
+2017,India,Inc42,0.33
+2017,India,Augmedix,0.32
+2017,India,Color Health,0.37
+2017,India,迈瑞医疗,0.35
+2017,India,鹰瞳科技,0.36
+2017,India,Insitro,0.36
+2017,India,Livara Health,0.31
+2017,India,新华三AI医疗平台,0.36
+2017,India,IBM Watson Health,0.32
+2017,India,BenevolentAI,0.34
+2017,India,Arcadia,0.32
+2017,India,CodaMetrix,0.36
+2017,India,Google Health,0.37
+2017,India,Praxis EMR,0.34
+2017,India,ScienceDirect,0.31
+2017,India,Everly Health,0.36
+2017,India,Causaly,0.33
+2017,India,Insitro,0.31
+2017,India,Elegen Corp.,0.37
+2017,India,Vizzia Technologies,0.32
+2017,India,平安智慧医疗,0.32
+2017,India,前瞻产业研究院,0.36
+2017,India,ScienceDirect,0.31
+2017,India,科亚医疗,0.31
+2017,India,Regard,0.37
+2017,India,Digital Diagnostics,0.35
+2018,India,Tracxn,0.6
+2018,India,VCCEdge,0.64
+2018,India,Inc42,0.57
+2018,India,Quibim,0.57
+2018,India,Microsoft Healthcare,0.63
+2018,India,Heidi Health,0.65
+2018,India,国家统计局,0.6
+2018,India,联影智能,0.58
+2018,India,森浦医疗AI平台,0.62
+2018,India,Fathom,0.65
+2018,India,Fathom,0.56
+2018,India,Microsoft Healthcare,0.61
+2018,India,Insitro,0.56
+2018,India,Lyra Health,0.59
+2018,India,IBM Watson Health,0.67
+2018,India,Lyra Health,0.6
+2018,India,CKGSB Knowledge,0.63
+2018,India,依图科技,0.54
+2018,India,科亚医疗,0.55
+2018,India,Exscientia,0.54
+2018,India,GE Healthcare,0.6
+2018,India,Color Health,0.56
+2018,India,ScienceDirect,0.63
+2018,India,Arterys,0.59
+2018,India,科亚医疗,0.64
+2019,India,Tracxn,1.01
+2019,India,VCCEdge,1.1
+2019,India,Inc42,1.02
+2019,India,SmarterDx,0.98
+2019,India,国家统计局,1.06
+2019,India,BenevolentAI,1.13
+2019,India,Livara Health,1.0
+2019,India,Hinge Health,0.96
+2019,India,Microsoft Healthcare,0.99
+2019,India,Google Health,1.06
+2019,India,Daxue Consulting,1.15
+2019,India,BenchSci,1.11
+2019,India,Elegen Corp.,1.03
+2019,India,BenevolentAI,1.02
+2019,India,SAS,1.16
+2019,India,Microsoft Healthcare,1.01
+2019,India,前瞻产业研究院,1.02
+2019,India,Everly Health,1.09
+2019,India,Butterfly Network,1.01
+2019,India,Arcadia,1.06
+2019,India,ZOE,1.02
+2019,India,SAS,0.99
+2019,India,PathAI,1.04
+2019,India,Intelligencia AI,1.1
+2019,India,Atomwise,1.08
+2019,India,Quris-AI,0.95
+2019,India,Google Health,1.05
+2019,India,Eleos Health,0.97
+2019,India,Angle Health,1.05
+2019,India,CKGSB Knowledge,1.02
+2019,India,Quris-AI,0.97
+2019,India,观研报告网,1.01
+2019,India,联影智能,1.13
+2020,India,Tracxn,1.83
+2020,India,VCCEdge,2.09
+2020,India,Inc42,1.89
+2020,India,新华三AI医疗平台,1.77
+2020,India,鹰瞳科技,1.99
+2020,India,Microsoft Healthcare,2.0
+2020,India,SAS,1.73
+2020,India,Insitro,2.0
+2020,India,GE Healthcare,2.0
+2020,India,Arcadia,1.71
+2020,India,Causaly,1.97
+2020,India,Elegen Corp.,1.81
+2020,India,联影智能,2.1
+2020,India,Insitro,1.74
+2020,India,Praxis EMR,1.98
+2020,India,ZOE,1.86
+2020,India,Optum Analytics,2.02
+2020,India,Philips Healthcare,1.98
+2020,India,Angle Health,1.98
+2020,India,Optum Analytics,2.05
+2020,India,Causaly,1.98
+2020,India,Owkin,1.87
+2020,India,Color Health,1.9
+2020,India,阿里健康,2.01
+2020,India,Color Health,1.9
+2020,India,Viz.ai,1.78
+2020,India,深睿医疗,1.96
+2020,India,Owkin,1.99
+2020,India,汇医慧影,1.93
+2020,India,Quibim,1.92
+2020,India,Color Health,2.13
+2021,India,Tracxn,2.8
+2021,India,VCCEdge,2.95
+2021,India,Inc42,2.61
+2021,India,Butterfly Network,2.88
+2021,India,GE Healthcare,2.73
+2021,India,GE Healthcare,2.86
+2021,India,Healx,2.8
+2021,India,Microsoft Healthcare,2.64
+2021,India,Philips Healthcare,2.69
+2021,India,Amazon Health,2.61
+2021,India,Atomwise,2.72
+2021,India,SmarterDx,2.49
+2021,India,Intelligencia AI,2.76
+2021,India,腾讯觅影,2.79
+2021,India,腾讯觅影,2.89
+2021,India,森浦医疗AI平台,2.89
+2021,India,Digital Diagnostics,2.93
+2021,India,Elegen Corp.,3.02
+2021,India,森浦医疗AI平台,2.61
+2021,India,CodaMetrix,2.57
+2021,India,Livara Health,2.82
+2021,India,Elegen Corp.,2.49
+2022,India,Tracxn,4.21
+2022,India,VCCEdge,4.48
+2022,India,Inc42,4.39
+2022,India,Philips Healthcare,4.68
+2022,India,Angle Health,4.02
+2022,India,SimpleTherapy,4.54
+2022,India,Amazon Health,4.24
+2022,India,Vizzia Technologies,4.56
+2022,India,深睿医疗,4.03
+2022,India,Chordline Health,4.75
+2022,India,PathAI,4.65
+2022,India,腾讯觅影,4.46
+2022,India,Color Health,4.0
+2022,India,联影智能,3.99
+2022,India,Microsoft Healthcare,4.72
+2023,India,Tracxn,3.6
+2023,India,VCCEdge,3.32
+2023,India,Inc42,3.58
+2023,India,推想科技,3.56
+2023,India,BenchSci,3.54
+2023,India,科亚医疗,3.34
+2023,India,Causaly,3.17
+2023,India,ScienceDirect,3.56
+2023,India,HMNC Brain Health,3.27
+2023,India,CKGSB Knowledge,3.18
+2023,India,Angle Health,3.75
+2023,India,PathAI,3.71
+2023,India,医渡云,3.41
+2023,India,平安智慧医疗,3.52
+2023,India,蓝帆医疗AI,3.88
+2023,India,Siemens Healthineers,3.23
+2023,India,ScienceDirect,3.53
+2023,India,Arterys,3.79
+2023,India,Eleos Health,3.55
+2023,India,Augmedix,3.4
+2023,India,观研报告网,3.4
+2023,India,Viz.ai,3.63
+2023,India,Causaly,3.43
+2023,India,Butterfly Network,3.52
+2023,India,Infinitus,3.73
+2023,India,Insitro,3.3
+2023,India,Vizzia Technologies,3.64
+2023,India,Arterys,3.78
+2023,India,Amazon Health,3.6
+2023,India,中国信通院,3.29
+2024,India,Tracxn,4.92
+2024,India,VCCEdge,5.07
+2024,India,Inc42,4.72
+2024,India,Viz.ai,4.58
+2024,India,Intelligencia AI,4.64
+2024,India,SAS,5.07
+2024,India,平安智慧医疗,5.06
+2024,India,Forward,4.49
+2024,India,森亿智能,4.55
+2024,India,Forward,4.59
+2024,India,Viz.ai,4.63
+2024,India,科亚医疗,4.9
+2024,India,Elegen Corp.,4.79
+2024,India,PathAI,5.12
+2024,India,Lyra Health,4.75
+2024,India,观研报告网,4.64
+2024,India,Exscientia,4.74
+2024,India,Optum Analytics,5.13
+2024,India,ZOE,4.99
+2024,India,Color Health,4.78
+2024,India,Everly Health,4.41
+2024,India,SAS,4.93
+2024,India,科亚医疗,4.58
+2024,India,Viz.ai,4.95
+2024,India,Quris-AI,4.75
+2015,Japan,METI Reports,0.29
+2015,Japan,JETRO,0.31
+2015,Japan,SeedTable,0.29
+2015,Japan,数坤科技,0.31
+2015,Japan,BenevolentAI,0.33
+2015,Japan,Lyra Health,0.31
+2015,Japan,Optum Analytics,0.27
+2015,Japan,BenchSci,0.32
+2015,Japan,Philips Healthcare,0.29
+2015,Japan,Amazon Health,0.32
+2015,Japan,ScienceDirect,0.3
+2015,Japan,Google Health,0.3
+2015,Japan,依图科技,0.31
+2015,Japan,Eleos Health,0.28
+2015,Japan,中国信通院,0.28
+2015,Japan,数坤科技,0.31
+2015,Japan,HMNC Brain Health,0.33
+2015,Japan,Color Health,0.3
+2015,Japan,Butterfly Network,0.3
+2015,Japan,深睿医疗,0.31
+2016,Japan,METI Reports,0.39
+2016,Japan,JETRO,0.42
+2016,Japan,SeedTable,0.39
+2016,Japan,Element5,0.41
+2016,Japan,平安智慧医疗,0.44
+2016,Japan,CKGSB Knowledge,0.44
+2016,Japan,阿里健康,0.41
+2016,Japan,科亚医疗,0.41
+2016,Japan,汇医慧影,0.38
+2016,Japan,Atomwise,0.42
+2016,Japan,Hinge Health,0.41
+2016,Japan,推想科技,0.37
+2016,Japan,ZOE,0.37
+2016,Japan,IBM Watson Health,0.39
+2016,Japan,前瞻产业研究院,0.38
+2016,Japan,观研报告网,0.41
+2016,Japan,Digital Diagnostics,0.38
+2016,Japan,CodaMetrix,0.41
+2016,Japan,Butterfly Network,0.39
+2016,Japan,Chordline Health,0.43
+2016,Japan,Quris-AI,0.4
+2017,Japan,METI Reports,0.6
+2017,Japan,JETRO,0.6
+2017,Japan,SeedTable,0.65
+2017,Japan,阿里健康,0.62
+2017,Japan,Daxue Consulting,0.63
+2017,Japan,Angle Health,0.62
+2017,Japan,Insitro,0.59
+2017,Japan,联影智能,0.69
+2017,Japan,HMNC Brain Health,0.66
+2017,Japan,新华三AI医疗平台,0.63
+2017,Japan,Butterfly Network,0.63
+2017,Japan,Siemens Healthineers,0.59
+2017,Japan,推想科技,0.67
+2017,Japan,Lyra Health,0.57
+2017,Japan,Siemens Healthineers,0.65
+2017,Japan,中国信通院,0.64
+2017,Japan,迈瑞医疗,0.56
+2017,Japan,Heidi Health,0.58
+2017,Japan,华大智造,0.64
+2017,Japan,Lyra Health,0.57
+2017,Japan,科亚医疗,0.64
+2017,Japan,Butterfly Network,0.64
+2017,Japan,Daxue Consulting,0.56
+2017,Japan,鹰瞳科技,0.64
+2017,Japan,数坤科技,0.62
+2017,Japan,森亿智能,0.64
+2017,Japan,森浦医疗AI平台,0.58
+2017,Japan,Intelligencia AI,0.67
+2018,Japan,METI Reports,0.9
+2018,Japan,JETRO,0.93
+2018,Japan,SeedTable,0.9
+2018,Japan,Elegen Corp.,0.93
+2018,Japan,SmarterDx,0.88
+2018,Japan,观研报告网,0.88
+2018,Japan,Forward,0.99
+2018,Japan,Chordline Health,0.94
+2018,Japan,ScienceDirect,0.94
+2018,Japan,SAS,0.99
+2018,Japan,新华三AI医疗平台,0.86
+2018,Japan,Chordline Health,0.97
+2018,Japan,Google Health,0.86
+2018,Japan,Microsoft Healthcare,0.98
+2018,Japan,GE Healthcare,0.83
+2018,Japan,BenevolentAI,0.98
+2018,Japan,蓝帆医疗AI,0.86
+2018,Japan,Viz.ai,0.92
+2018,Japan,Fathom,0.89
+2018,Japan,Cleerly,0.83
+2018,Japan,Hinge Health,0.92
+2018,Japan,Fathom,1.0
+2018,Japan,Hinge Health,0.98
+2018,Japan,腾讯觅影,0.93
+2018,Japan,依图科技,0.9
+2019,Japan,METI Reports,1.47
+2019,Japan,JETRO,1.59
+2019,Japan,SeedTable,1.5
+2019,Japan,Lyra Health,1.68
+2019,Japan,Elegen Corp.,1.47
+2019,Japan,Fathom,1.63
+2019,Japan,BenchSci,1.36
+2019,Japan,平安智慧医疗,1.4
+2019,Japan,科亚医疗,1.55
+2019,Japan,鹰瞳科技,1.39
+2019,Japan,Augmedix,1.56
+2019,Japan,数坤科技,1.66
+2019,Japan,CKGSB Knowledge,1.56
+2019,Japan,联影智能,1.53
+2019,Japan,Siemens Healthineers,1.41
+2019,Japan,Elegen Corp.,1.6
+2019,Japan,Causaly,1.54
+2019,Japan,森亿智能,1.39
+2019,Japan,依图科技,1.41
+2019,Japan,Vizzia Technologies,1.51
+2019,Japan,Heidi Health,1.64
+2019,Japan,BenchSci,1.67
+2019,Japan,GE Healthcare,1.69
+2020,Japan,METI Reports,2.26
+2020,Japan,JETRO,2.29
+2020,Japan,SeedTable,2.14
+2020,Japan,汇医慧影,2.16
+2020,Japan,Insitro,2.09
+2020,Japan,Livara Health,2.35
+2020,Japan,Elegen Corp.,2.08
+2020,Japan,Heidi Health,2.43
+2020,Japan,Atomwise,2.15
+2020,Japan,Hinge Health,2.47
+2020,Japan,SimpleTherapy,2.41
+2020,Japan,SAS,2.24
+2020,Japan,Eleos Health,2.35
+2020,Japan,依图科技,2.29
+2020,Japan,Chordline Health,2.12
+2020,Japan,Exscientia,2.11
+2020,Japan,Arcadia,2.41
+2020,Japan,深睿医疗,2.28
+2020,Japan,Arcadia,2.06
+2020,Japan,Healx,2.06
+2020,Japan,依图科技,2.32
+2020,Japan,ScienceDirect,2.44
+2020,Japan,Causaly,2.08
+2020,Japan,SAS,2.08
+2020,Japan,Praxis EMR,2.11
+2021,Japan,METI Reports,3.18
+2021,Japan,JETRO,3.35
+2021,Japan,SeedTable,3.22
+2021,Japan,Praxis EMR,3.49
+2021,Japan,BenchSci,3.04
+2021,Japan,观研报告网,2.98
+2021,Japan,森亿智能,3.12
+2021,Japan,Hinge Health,3.16
+2021,Japan,IBM Watson Health,3.22
+2021,Japan,Philips Healthcare,3.0
+2021,Japan,Exscientia,3.13
+2021,Japan,Arterys,3.3
+2021,Japan,Cleerly,3.47
+2021,Japan,前瞻产业研究院,3.31
+2021,Japan,Healx,2.95
+2021,Japan,Cleerly,3.37
+2021,Japan,Daxue Consulting,3.26
+2021,Japan,Digital Diagnostics,3.38
+2021,Japan,BenchSci,2.96
+2021,Japan,Infinitus,3.02
+2021,Japan,Viz.ai,3.13
+2021,Japan,Atomwise,3.5
+2021,Japan,迈瑞医疗,3.26
+2021,Japan,Everly Health,3.11
+2021,Japan,科亚医疗,3.24
+2021,Japan,BenchSci,3.51
+2022,Japan,METI Reports,5.07
+2022,Japan,JETRO,5.44
+2022,Japan,SeedTable,4.91
+2022,Japan,中国信通院,5.29
+2022,Japan,Infinitus,5.49
+2022,Japan,BenevolentAI,4.59
+2022,Japan,艾瑞咨询,4.82
+2022,Japan,中国信通院,5.59
+2022,Japan,Optum Analytics,5.42
+2022,Japan,蓝帆医疗AI,4.74
+2022,Japan,Intelligencia AI,4.81
+2022,Japan,Exscientia,5.42
+2022,Japan,腾讯觅影,5.39
+2022,Japan,HMNC Brain Health,5.13
+2022,Japan,GE Healthcare,5.13
+2022,Japan,HMNC Brain Health,5.27
+2022,Japan,深睿医疗,5.23
+2022,Japan,GE Healthcare,4.97
+2022,Japan,CodaMetrix,5.43
+2022,Japan,Infinitus,4.95
+2022,Japan,Amazon Health,4.76
+2022,Japan,Augmedix,5.59
+2022,Japan,Color Health,5.69
+2022,Japan,Chordline Health,5.2
+2022,Japan,Philips Healthcare,5.49
+2022,Japan,Augmedix,5.61
+2022,Japan,IBM Watson Health,4.88
+2022,Japan,Quris-AI,4.94
+2022,Japan,Heidi Health,5.43
+2022,Japan,鹰瞳科技,5.06
+2023,Japan,METI Reports,4.16
+2023,Japan,JETRO,4.41
+2023,Japan,SeedTable,3.98
+2023,Japan,Atomwise,4.38
+2023,Japan,SAS,3.89
+2023,Japan,Digital Diagnostics,4.6
+2023,Japan,Daxue Consulting,4.18
+2023,Japan,蓝帆医疗AI,4.22
+2023,Japan,汇医慧影,4.54
+2023,Japan,Arcadia,4.58
+2023,Japan,观研报告网,4.45
+2023,Japan,Healx,3.86
+2023,Japan,Vizzia Technologies,4.07
+2023,Japan,Element5,4.13
+2023,Japan,Philips Healthcare,4.0
+2023,Japan,观研报告网,4.03
+2023,Japan,Butterfly Network,4.43
+2023,Japan,BenevolentAI,3.78
+2023,Japan,Arterys,4.35
+2023,Japan,Regard,4.23
+2023,Japan,GE Healthcare,4.04
+2023,Japan,Angle Health,3.83
+2023,Japan,国家统计局,4.16
+2023,Japan,数坤科技,4.16
+2023,Japan,Color Health,3.81
+2023,Japan,联影智能,3.8
+2023,Japan,PathAI,3.88
+2023,Japan,数坤科技,4.47
+2023,Japan,ScienceDirect,4.27
+2024,Japan,METI Reports,5.27
+2024,Japan,JETRO,5.62
+2024,Japan,SeedTable,5.25
+2024,Japan,阿里健康,5.79
+2024,Japan,Augmedix,5.06
+2024,Japan,前瞻产业研究院,5.75
+2024,Japan,前瞻产业研究院,4.99
+2024,Japan,Google Health,5.19
+2024,Japan,CodaMetrix,5.51
+2024,Japan,Healx,5.46
+2024,Japan,中国信通院,5.61
+2024,Japan,Augmedix,5.72
+2024,Japan,推想科技,5.66
+2024,Japan,推想科技,4.93
+2024,Japan,Insitro,5.63
+2024,Japan,前瞻产业研究院,5.1
+2024,Japan,鹰瞳科技,4.89
+2024,Japan,Arcadia,5.11
+2024,Japan,Arterys,5.82
+2024,Japan,数坤科技,5.55
+2024,Japan,前瞻产业研究院,5.65
+2024,Japan,Element5,5.63
+2024,Japan,Livara Health,5.2
+2024,Japan,腾讯觅影,5.26
+2024,Japan,Livara Health,4.91
+2024,Japan,Elegen Corp.,5.03
+2024,Japan,森浦医疗AI平台,5.85
+2024,Japan,中国信通院,5.3
+2024,Japan,鹰瞳科技,5.81
+2024,Japan,Philips Healthcare,5.8
+2024,Japan,Eleos Health,5.06
+2024,Japan,Infinitus,5.7
+2024,Japan,ScienceDirect,4.96
+2024,Japan,Causaly,5.55
+2024,Japan,ScienceDirect,5.06
+2024,Japan,华大智造,5.71
+2015,USA,CB Insights,3.05
+2015,USA,Crunchbase,3.42
+2015,USA,PitchBook,3.07
+2015,USA,Chordline Health,3.46
+2015,USA,Heidi Health,3.22
+2015,USA,Forward,3.08
+2015,USA,Hinge Health,3.12
+2015,USA,依图科技,3.03
+2015,USA,SmarterDx,3.1
+2015,USA,阿里健康,3.23
+2015,USA,新华三AI医疗平台,2.97
+2015,USA,Viz.ai,2.87
+2015,USA,Infinitus,3.05
+2015,USA,Livara Health,2.95
+2015,USA,SimpleTherapy,3.25
+2015,USA,Infinitus,3.04
+2015,USA,Insitro,3.38
+2015,USA,Praxis EMR,3.17
+2015,USA,Optum Analytics,3.4
+2015,USA,Microsoft Healthcare,2.93
+2015,USA,PathAI,3.29
+2015,USA,推想科技,3.14
+2015,USA,平安智慧医疗,2.94
+2015,USA,依图科技,3.21
+2015,USA,中国信通院,3.34
+2015,USA,森亿智能,3.14
+2015,USA,SmarterDx,2.85
+2015,USA,Hinge Health,3.01
+2015,USA,Google Health,3.21
+2016,USA,CB Insights,4.02
+2016,USA,Crunchbase,4.08
+2016,USA,PitchBook,4.15
+2016,USA,医渡云,4.26
+2016,USA,平安智慧医疗,3.96
+2016,USA,观研报告网,4.39
+2016,USA,Insitro,3.76
+2016,USA,Quibim,4.24
+2016,USA,Philips Healthcare,4.16
+2016,USA,联影智能,4.09
+2016,USA,Forward,4.1
+2016,USA,Forward,4.14
+2016,USA,Vizzia Technologies,4.01
+2016,USA,Vizzia Technologies,4.3
+2016,USA,Fathom,4.28
+2016,USA,依图科技,3.8
+2016,USA,联影智能,4.0
+2016,USA,Arcadia,3.81
+2016,USA,Digital Diagnostics,4.29
+2016,USA,观研报告网,4.42
+2016,USA,Causaly,4.29
+2016,USA,ZOE,4.16
+2016,USA,Quris-AI,4.06
+2016,USA,Amazon Health,4.22
+2016,USA,艾瑞咨询,3.99
+2016,USA,Google Health,3.74
+2017,USA,CB Insights,5.87
+2017,USA,Crunchbase,5.99
+2017,USA,PitchBook,5.38
+2017,USA,BenevolentAI,6.12
+2017,USA,Google Health,5.23
+2017,USA,依图科技,5.58
+2017,USA,联影智能,5.35
+2017,USA,Healx,5.1
+2017,USA,Insitro,5.45
+2017,USA,迈瑞医疗,6.24
+2017,USA,Intelligencia AI,5.67
+2017,USA,Chordline Health,5.31
+2017,USA,Element5,5.61
+2017,USA,Intelligencia AI,5.42
+2017,USA,Siemens Healthineers,6.13
+2017,USA,腾讯觅影,5.71
+2017,USA,PathAI,5.99
+2017,USA,深睿医疗,5.86
+2017,USA,平安智慧医疗,5.11
+2017,USA,医渡云,5.91
+2017,USA,Lyra Health,5.23
+2018,USA,CB Insights,9.1
+2018,USA,Crunchbase,10.05
+2018,USA,PitchBook,9.39
+2018,USA,Quibim,9.64
+2018,USA,HMNC Brain Health,9.08
+2018,USA,鹰瞳科技,9.79
+2018,USA,国家统计局,9.77
+2018,USA,Quris-AI,9.38
+2018,USA,迈瑞医疗,10.06
+2018,USA,Healx,9.73
+2018,USA,ScienceDirect,9.97
+2018,USA,Augmedix,9.1
+2018,USA,Element5,8.87
+2018,USA,Regard,9.61
+2018,USA,Hinge Health,8.8
+2018,USA,Forward,9.54
+2018,USA,森浦医疗AI平台,10.14
+2018,USA,国家统计局,9.83
+2018,USA,Intelligencia AI,9.3
+2018,USA,Everly Health,10.51
+2018,USA,Element5,9.55
+2018,USA,Livara Health,9.48
+2018,USA,观研报告网,10.07
+2018,USA,Healx,9.45
+2019,USA,CB Insights,15.38
+2019,USA,Crunchbase,16.21
+2019,USA,PitchBook,14.43
+2019,USA,Livara Health,14.42
+2019,USA,Vizzia Technologies,14.21
+2019,USA,深睿医疗,14.25
+2019,USA,Elegen Corp.,14.32
+2019,USA,Eleos Health,16.31
+2019,USA,医渡云,14.33
+2019,USA,科亚医疗,16.55
+2019,USA,HMNC Brain Health,16.09
+2019,USA,科亚医疗,14.91
+2019,USA,CKGSB Knowledge,15.63
+2019,USA,Color Health,16.27
+2019,USA,Infinitus,16.16
+2019,USA,推想科技,16.48
+2019,USA,Forward,16.64
+2019,USA,Element5,17.03
+2019,USA,ScienceDirect,14.56
+2019,USA,Daxue Consulting,14.95
+2019,USA,Infinitus,16.69
+2019,USA,Lyra Health,14.73
+2019,USA,科亚医疗,15.15
+2019,USA,推想科技,15.42
+2019,USA,森浦医疗AI平台,14.48
+2019,USA,BenevolentAI,14.39
+2019,USA,Augmedix,14.53
+2019,USA,Everly Health,16.13
+2019,USA,Augmedix,14.08
+2019,USA,Element5,14.73
+2019,USA,HMNC Brain Health,14.17
+2019,USA,平安智慧医疗,15.86
+2019,USA,Siemens Healthineers,14.61
+2019,USA,Causaly,16.25
+2020,USA,CB Insights,23.81
+2020,USA,Crunchbase,23.75
+2020,USA,PitchBook,23.19
+2020,USA,HMNC Brain Health,21.45
+2020,USA,Owkin,22.5
+2020,USA,Angle Health,23.39
+2020,USA,Intelligencia AI,25.03
+2020,USA,Regard,23.56
+2020,USA,艾瑞咨询,21.97
+2020,USA,BenevolentAI,22.69
+2020,USA,推想科技,23.41
+2020,USA,蓝帆医疗AI,24.83
+2020,USA,Viz.ai,21.61
+2020,USA,森浦医疗AI平台,23.38
+2020,USA,Elegen Corp.,21.29
+2020,USA,Optum Analytics,24.91
+2020,USA,CodaMetrix,23.02
+2020,USA,数坤科技,25.93
+2020,USA,Color Health,24.35
+2020,USA,Cleerly,21.62
+2020,USA,平安智慧医疗,24.37
+2020,USA,Healx,23.96
+2020,USA,医渡云,25.83
+2020,USA,国家统计局,21.74
+2020,USA,Butterfly Network,23.96
+2020,USA,Exscientia,21.35
+2020,USA,Siemens Healthineers,25.59
+2020,USA,Praxis EMR,21.61
+2021,USA,CB Insights,46.52
+2021,USA,Crunchbase,46.45
+2021,USA,PitchBook,44.96
+2021,USA,森浦医疗AI平台,50.33
+2021,USA,Fathom,49.71
+2021,USA,ScienceDirect,48.87
+2021,USA,科亚医疗,49.52
+2021,USA,中国信通院,49.08
+2021,USA,Forward,44.16
+2021,USA,ScienceDirect,49.95
+2021,USA,CKGSB Knowledge,48.24
+2021,USA,Microsoft Healthcare,41.66
+2021,USA,华大智造,42.08
+2021,USA,Chordline Health,41.57
+2021,USA,Causaly,45.62
+2021,USA,Arterys,49.95
+2021,USA,Amazon Health,47.57
+2021,USA,Hinge Health,48.45
+2021,USA,Microsoft Healthcare,49.92
+2021,USA,Google Health,48.2
+2021,USA,Causaly,50.13
+2021,USA,Google Health,44.67
+2021,USA,Infinitus,47.11
+2021,USA,Color Health,44.36
+2021,USA,Eleos Health,43.87
+2021,USA,数坤科技,49.86
+2021,USA,GE Healthcare,47.4
+2021,USA,Siemens Healthineers,46.0
+2021,USA,Everly Health,45.86
+2021,USA,Augmedix,46.38
+2022,USA,CB Insights,72.3
+2022,USA,Crunchbase,76.86
+2022,USA,PitchBook,68.84
+2022,USA,Fathom,65.36
+2022,USA,平安智慧医疗,74.4
+2022,USA,Daxue Consulting,73.46
+2022,USA,前瞻产业研究院,78.68
+2022,USA,前瞻产业研究院,70.28
+2022,USA,SAS,69.21
+2022,USA,CodaMetrix,71.73
+2022,USA,SAS,66.52
+2022,USA,IBM Watson Health,75.88
+2022,USA,Butterfly Network,67.41
+2022,USA,森浦医疗AI平台,66.12
+2022,USA,Daxue Consulting,80.5
+2022,USA,森亿智能,68.98
+2022,USA,艾瑞咨询,70.26
+2022,USA,Vizzia Technologies,78.07
+2022,USA,迈瑞医疗,68.74
+2022,USA,ZOE,77.22
+2022,USA,依图科技,66.72
+2022,USA,Regard,68.08
+2023,USA,CB Insights,60.28
+2023,USA,Crunchbase,64.49
+2023,USA,PitchBook,59.91
+2023,USA,Lyra Health,61.1
+2023,USA,Arcadia,60.99
+2023,USA,PathAI,56.68
+2023,USA,Element5,59.32
+2023,USA,Healx,61.32
+2023,USA,SimpleTherapy,62.57
+2023,USA,Daxue Consulting,61.0
+2023,USA,依图科技,62.72
+2023,USA,深睿医疗,55.53
+2023,USA,联影智能,63.55
+2023,USA,Lyra Health,56.38
+2023,USA,Butterfly Network,56.85
+2023,USA,新华三AI医疗平台,63.8
+2023,USA,Chordline Health,65.78
+2023,USA,平安智慧医疗,57.32
+2023,USA,SAS,66.29
+2023,USA,HMNC Brain Health,61.29
+2023,USA,Forward,57.25
+2023,USA,国家统计局,66.87
+2023,USA,Arterys,64.62
+2023,USA,Lyra Health,65.44
+2023,USA,数坤科技,63.63
+2023,USA,Butterfly Network,67.18
+2024,USA,CB Insights,67.8
+2024,USA,Crunchbase,73.96
+2024,USA,PitchBook,66.88
+2024,USA,HMNC Brain Health,72.07
+2024,USA,森浦医疗AI平台,68.88
+2024,USA,森浦医疗AI平台,68.71
+2024,USA,迈瑞医疗,72.31
+2024,USA,Element5,65.48
+2024,USA,HMNC Brain Health,74.1
+2024,USA,Vizzia Technologies,65.55
+2024,USA,Philips Healthcare,71.17
+2024,USA,Atomwise,74.3
+2024,USA,腾讯觅影,67.89
+2024,USA,Cleerly,64.49
+2024,USA,BenevolentAI,74.65
+2024,USA,Daxue Consulting,73.53
+2024,USA,深睿医疗,66.93
+2024,USA,新华三AI医疗平台,72.81
+2024,USA,Google Health,64.57
+2024,USA,ScienceDirect,74.39
+2024,USA,Fathom,62.97
+2024,USA,CKGSB Knowledge,62.53
+2024,USA,Heidi Health,65.57
+2024,USA,国家统计局,66.24
+2024,USA,SimpleTherapy,65.91
+2024,USA,Fathom,62.39
+2024,USA,SmarterDx,76.35

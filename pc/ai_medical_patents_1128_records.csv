@@ -1,0 +1,1179 @@
+Year,Company,Country,Patent Count
+2015,IBM Watson Health,USA,610
+2015,GE Healthcare,USA,619
+2015,Siemens Healthineers,EU,1014
+2015,Philips Healthcare,EU,911
+2015,Google Health,USA,86
+2015,Microsoft Healthcare,USA,178
+2015,平安智慧医疗,China,1355
+2015,腾讯觅影,China,557
+2015,依图科技,China,66
+2015,数坤科技,China,96
+2015,联影智能,China,71
+2015,深睿医疗,China,197
+2015,Digital Diagnostics,USA,139
+2015,Butterfly Network,USA,133
+2015,Owkin,France,106
+2015,Exscientia,UK,54
+2016,IBM Watson Health,USA,400
+2016,GE Healthcare,USA,699
+2016,Siemens Healthineers,EU,1392
+2016,Philips Healthcare,EU,1256
+2016,Google Health,USA,142
+2016,Microsoft Healthcare,USA,156
+2016,平安智慧医疗,China,1181
+2016,腾讯觅影,China,661
+2016,依图科技,China,157
+2016,数坤科技,China,183
+2016,联影智能,China,129
+2016,深睿医疗,China,197
+2016,Digital Diagnostics,USA,83
+2016,Butterfly Network,USA,172
+2016,Owkin,France,69
+2016,Exscientia,UK,95
+2017,IBM Watson Health,USA,1103
+2017,GE Healthcare,USA,688
+2017,Siemens Healthineers,EU,1711
+2017,Philips Healthcare,EU,1951
+2017,Google Health,USA,367
+2017,Microsoft Healthcare,USA,312
+2017,平安智慧医疗,China,1489
+2017,腾讯觅影,China,692
+2017,依图科技,China,113
+2017,数坤科技,China,308
+2017,联影智能,China,111
+2017,深睿医疗,China,326
+2017,Digital Diagnostics,USA,178
+2017,Butterfly Network,USA,348
+2017,Owkin,France,153
+2017,Exscientia,UK,256
+2018,IBM Watson Health,USA,1080
+2018,GE Healthcare,USA,895
+2018,Siemens Healthineers,EU,2284
+2018,Philips Healthcare,EU,1749
+2018,Google Health,USA,114
+2018,Microsoft Healthcare,USA,299
+2018,平安智慧医疗,China,2324
+2018,腾讯觅影,China,1308
+2018,依图科技,China,330
+2018,数坤科技,China,168
+2018,联影智能,China,148
+2018,深睿医疗,China,146
+2018,Digital Diagnostics,USA,416
+2018,Butterfly Network,USA,212
+2018,Owkin,France,306
+2018,Exscientia,UK,137
+2019,IBM Watson Health,USA,1569
+2019,GE Healthcare,USA,1353
+2019,Siemens Healthineers,EU,2896
+2019,Philips Healthcare,EU,3098
+2019,Google Health,USA,347
+2019,Microsoft Healthcare,USA,209
+2019,平安智慧医疗,China,2925
+2019,腾讯觅影,China,1994
+2019,依图科技,China,425
+2019,数坤科技,China,168
+2019,联影智能,China,468
+2019,深睿医疗,China,319
+2019,Digital Diagnostics,USA,446
+2019,Butterfly Network,USA,641
+2019,Owkin,France,238
+2019,Exscientia,UK,467
+2020,IBM Watson Health,USA,1801
+2020,GE Healthcare,USA,2381
+2020,Siemens Healthineers,EU,4495
+2020,Philips Healthcare,EU,4072
+2020,Google Health,USA,676
+2020,Microsoft Healthcare,USA,464
+2020,平安智慧医疗,China,3441
+2020,腾讯觅影,China,1806
+2020,依图科技,China,555
+2020,数坤科技,China,239
+2020,联影智能,China,368
+2020,深睿医疗,China,516
+2020,Digital Diagnostics,USA,554
+2020,Butterfly Network,USA,439
+2020,Owkin,France,734
+2020,Exscientia,UK,243
+2021,IBM Watson Health,USA,2592
+2021,GE Healthcare,USA,1577
+2021,Siemens Healthineers,EU,4102
+2021,Philips Healthcare,EU,3866
+2021,Google Health,USA,598
+2021,Microsoft Healthcare,USA,336
+2021,平安智慧医疗,China,7986
+2021,腾讯觅影,China,2170
+2021,依图科技,China,1352
+2021,数坤科技,China,394
+2021,联影智能,China,705
+2021,深睿医疗,China,1311
+2021,Digital Diagnostics,USA,312
+2021,Butterfly Network,USA,935
+2021,Owkin,France,824
+2021,Exscientia,UK,688
+2022,IBM Watson Health,USA,4403
+2022,GE Healthcare,USA,3863
+2022,Siemens Healthineers,EU,6968
+2022,Philips Healthcare,EU,5961
+2022,Google Health,USA,717
+2022,Microsoft Healthcare,USA,1998
+2022,平安智慧医疗,China,5819
+2022,腾讯觅影,China,3804
+2022,依图科技,China,932
+2022,数坤科技,China,1021
+2022,联影智能,China,472
+2022,深睿医疗,China,703
+2022,Digital Diagnostics,USA,1417
+2022,Butterfly Network,USA,1698
+2022,Owkin,France,642
+2022,Exscientia,UK,1059
+2023,IBM Watson Health,USA,6058
+2023,GE Healthcare,USA,2362
+2023,Siemens Healthineers,EU,11713
+2023,Philips Healthcare,EU,10771
+2023,Google Health,USA,1076
+2023,Microsoft Healthcare,USA,700
+2023,平安智慧医疗,China,7461
+2023,腾讯觅影,China,3923
+2023,依图科技,China,1089
+2023,数坤科技,China,475
+2023,联影智能,China,1509
+2023,深睿医疗,China,1435
+2023,Digital Diagnostics,USA,874
+2023,Butterfly Network,USA,1877
+2023,Owkin,France,1985
+2023,Exscientia,UK,759
+2024,IBM Watson Health,USA,4250
+2024,GE Healthcare,USA,3303
+2024,Siemens Healthineers,EU,22125
+2024,Philips Healthcare,EU,11591
+2024,Google Health,USA,2914
+2024,Microsoft Healthcare,USA,3045
+2024,平安智慧医疗,China,7211
+2024,腾讯觅影,China,4887
+2024,依图科技,China,873
+2024,数坤科技,China,673
+2024,联影智能,China,1548
+2024,深睿医疗,China,1284
+2024,Digital Diagnostics,USA,870
+2024,Butterfly Network,USA,1928
+2024,Owkin,France,828
+2024,Exscientia,UK,1550
+2020,"Villarreal, Hood and Hardy",Canada,1
+2017,"Thompson, Williams and Barker",USA,3
+2019,"Marshall, Carter and Alvarado",EU,13
+2015,智能诊断PLC,China,85
+2021,Spencer-Curtis,USA,9
+2016,Smith-Smith,France,1
+2023,"Barrett, Bowen and Browning",EU,26
+2024,Hall-Dixon,UK,3
+2022,Burnett-Smith,USA,62
+2017,Andrews-Austin,France,1
+2019,Miller-Hoffman,France,3
+2019,Bennett Inc,Japan,9
+2017,Benjamin Inc,EU,20
+2021,Whitaker and Sons,EU,8
+2016,Lewis-Gray,France,1
+2020,"Jackson, West and Hudson",France,1
+2022,Ellis Group,South Korea,1
+2019,"Chapman, Maxwell and West",India,1
+2019,"Bennett, Taylor and Hamilton",Australia,1
+2021,Riggs LLC,Japan,25
+2020,"Collier, Woods and Smith",Japan,7
+2021,"Vega, Jones and Vasquez",India,6
+2022,"Madden, Leon and Johnson",USA,111
+2021,"Gamble, Obrien and Steele",South Korea,1
+2016,智能诊断Group,China,36
+2021,Williams Inc,USA,12
+2016,Simmons-Mckenzie,South Korea,1
+2020,"Collins, Grant and Mcbride",Canada,1
+2024,"Baker, Hopkins and Cline",UK,3
+2017,Bradley-Torres,Canada,1
+2020,Silva Inc,South Korea,1
+2017,"Lynch, Clarke and King",Australia,1
+2023,Kennedy-Gonzalez,Australia,1
+2015,Carter Group,Canada,1
+2023,Gibson-Choi,Australia,1
+2016,Mcintosh Inc,France,1
+2020,"Harris, Blake and Lopez",South Korea,1
+2018,Walsh LLC,China,125
+2018,Hughes Ltd,India,1
+2024,"Thomas, Baker and King",China,514
+2015,Williams Ltd,India,1
+2017,"Sullivan, Robles and Hernandez",EU,4
+2024,Moon Group,Australia,1
+2016,Zimmerman-Torres,Canada,1
+2022,Weiss Ltd,Canada,4
+2022,智能诊断Group,China,236
+2022,Stevenson PLC,Japan,8
+2015,Wilson Ltd,India,1
+2021,Rojas and Sons,USA,42
+2024,"Nunez, Holland and Johnson",Australia,4
+2022,Brown Ltd,USA,7
+2015,Livingston Inc,Canada,1
+2023,White PLC,China,457
+2024,Gonzales and Sons,USA,140
+2024,Reyes Group,Japan,65
+2018,Brewer Ltd,China,144
+2019,"Brewer, Sellers and Vargas",USA,10
+2018,"Wagner, Blankenship and Hill",Canada,1
+2020,"Fisher, Morris and Myers",USA,28
+2019,Holloway-Austin,China,240
+2021,Acevedo PLC,EU,11
+2015,Williams Inc,USA,3
+2015,"Jones, Harrison and Booker",UK,1
+2016,"Ryan, Fletcher and Cook",Australia,1
+2020,Valdez and Sons,Canada,3
+2020,"Davis, Brown and May",India,1
+2018,"Mcclain, Barnett and Bradley",USA,44
+2023,"Webb, Bryant and Morales",Australia,1
+2020,Martin-Chan,South Korea,1
+2018,Duke and Sons,USA,31
+2022,Cantu Ltd,USA,64
+2017,Bryan-Green,UK,1
+2022,Burch and Sons,UK,7
+2018,"Mendez, Bishop and Stokes",India,1
+2018,"Stanton, Lee and Payne",Japan,4
+2020,Willis-Wilson,South Korea,1
+2020,Morales-Palmer,Japan,6
+2016,Parsons-Jones,China,87
+2017,Wise Inc,India,1
+2016,"Price, Padilla and Sanders",EU,8
+2016,Jarvis PLC,Canada,1
+2019,Schroeder Inc,India,1
+2017,"Ward, Smith and Roberts",South Korea,1
+2022,"Downs, Orozco and Martinez",China,420
+2023,Simmons LLC,Japan,14
+2015,Shaw-Strong,France,1
+2017,Clark Ltd,Australia,1
+2016,"Keller, Novak and Green",Australia,1
+2022,Giles and Sons,China,781
+2022,"Walsh, Houston and Lopez",China,319
+2023,Hatfield-Yoder,UK,3
+2023,Rice LLC,Australia,2
+2022,Gonzalez-Haas,France,4
+2018,Edwards-Anderson,Australia,1
+2015,Ritter and Sons,India,1
+2024,Mathews-Burke,France,5
+2020,"Taylor, Newman and Rivera",South Korea,1
+2019,AI医疗科技Ltd,China,49
+2017,"Leon, Guzman and Walker",Canada,1
+2024,Thomas-Knight,Canada,7
+2022,Golden-Carpenter,Canada,6
+2020,Kennedy Inc,Canada,1
+2022,"Mendoza, Williams and Allen",China,460
+2015,"Lawson, Foley and Farrell",India,1
+2015,Prince PLC,China,35
+2020,Garza-Jones,France,1
+2020,Rivera and Sons,Japan,3
+2016,Cook PLC,USA,12
+2015,Conway-Jackson,Australia,1
+2019,Johnson-Harper,France,2
+2024,Taylor-Walton,USA,74
+2022,"Malone, Best and Hall",South Korea,2
+2021,Johnson PLC,China,172
+2017,Boyer-Galvan,Canada,1
+2019,"Newman, Johnson and Holland",EU,4
+2015,Salazar-West,France,1
+2015,Herrera-Williams,Canada,1
+2024,Martin-Arias,Canada,13
+2024,Dodson-Ross,South Korea,3
+2024,Lee-Richardson,EU,48
+2020,Hill-West,Canada,1
+2024,Madden PLC,UK,1
+2022,Turner PLC,USA,23
+2015,Holden Inc,UK,1
+2015,Rice Inc,South Korea,1
+2023,"Fox, Cook and Reyes",USA,78
+2018,"Hall, Miller and Sandoval",South Korea,1
+2023,Smith LLC,China,677
+2016,Ortiz LLC,South Korea,1
+2016,Rose PLC,USA,6
+2018,"Rhodes, Carter and Mccullough",Japan,2
+2016,Johnston Group,UK,1
+2023,Fisher-Davis,South Korea,1
+2024,Gibson PLC,UK,4
+2021,Fuller-Morales,USA,100
+2018,Rivas-Johnston,France,1
+2018,Suarez-Day,USA,2
+2017,Reid PLC,India,1
+2017,Jones and Sons,Canada,1
+2017,Noble-Romero,India,1
+2019,"Fuller, Davis and Mack",USA,15
+2019,Carter-Fisher,India,5
+2018,"Garcia, Williams and Mccoy",USA,12
+2017,"Berry, Graves and Marsh",USA,21
+2020,"Jensen, King and Mills",India,5
+2024,Stevenson Ltd,Canada,9
+2023,West Inc,France,3
+2017,"Miles, Torres and Terry",South Korea,1
+2024,"Silva, Perkins and Gonzalez",EU,45
+2024,Williams Ltd,Japan,13
+2021,"Moore, Sanchez and Ortega",India,5
+2016,Molina LLC,Canada,1
+2021,Gregory Ltd,South Korea,1
+2020,Orr-Chavez,Australia,1
+2022,Roth-Johnson,France,1
+2018,"Smith, Williams and Gomez",Australia,1
+2018,Hopkins-Phillips,Australia,1
+2021,"Wilson, Simon and Lyons",USA,34
+2020,"Jones, Allen and Moore",France,1
+2019,Stevens Group,Japan,8
+2021,Powell PLC,Australia,1
+2016,"Lee, Lozano and Cruz",South Korea,1
+2020,Dorsey and Sons,USA,10
+2018,Vargas Ltd,USA,10
+2017,Watson Group,EU,23
+2022,Shaffer-Allison,Japan,13
+2015,"Hanson, Smith and Harris",South Korea,1
+2023,深蓝医疗LLC,China,484
+2022,Taylor Group,France,8
+2015,Butler Group,South Korea,1
+2016,Webb-Stephens,South Korea,1
+2018,Howell-Jacobson,UK,1
+2024,Parker Ltd,South Korea,1
+2018,"Lawson, Parks and Jordan",South Korea,1
+2021,"Nash, Alexander and Owen",Canada,3
+2018,"Frazier, Watson and Riddle",Canada,2
+2022,"Williams, Nichols and Moore",India,4
+2019,Carter LLC,UK,4
+2016,"Herrera, Jones and Branch",EU,8
+2015,Singh-Bailey,Canada,1
+2024,Bentley-Butler,Japan,14
+2022,Floyd-Alvarez,France,4
+2015,"Cooke, Ford and Cooper",South Korea,1
+2024,Miller LLC,Japan,24
+2017,AI医疗科技Ltd,China,35
+2022,Lambert-Carrillo,Japan,4
+2020,Collins PLC,UK,1
+2023,Davis Ltd,USA,70
+2024,"Anderson, Mcdonald and Green",Japan,36
+2016,"Buckley, Perez and Martinez",Australia,1
+2018,"Rivera, Conner and Flores",EU,18
+2021,Gaines-Green,India,1
+2019,Haynes Group,USA,20
+2016,"Miller, Fisher and Petty",EU,2
+2022,Wright-Hughes,South Korea,1
+2015,"Barron, Williamson and Gardner",France,1
+2017,Lawrence-Wood,Japan,5
+2021,"Dawson, Davis and Castillo",UK,3
+2018,Carter-Jones,Australia,1
+2018,Prince and Sons,EU,15
+2020,"Wade, Richard and Harrison",EU,4
+2022,Taylor-Hart,Australia,2
+2021,"Wilson, Mckee and Carey",France,2
+2019,Johnston Inc,France,1
+2023,Stark-Wilson,Australia,4
+2023,深蓝医疗Inc,China,391
+2021,Shaw and Sons,EU,17
+2019,Sweeney-Mack,USA,39
+2017,Graves-Ramirez,Australia,1
+2021,"Williams, Sims and Bailey",Japan,12
+2015,"Reed, Jones and Sherman",USA,1
+2017,"Mills, Gibson and Nelson",South Korea,1
+2015,Vincent Ltd,India,1
+2022,Duncan and Sons,Japan,23
+2015,Meyers-Richards,Australia,1
+2017,Malone-Ward,France,1
+2016,"Wagner, Mendoza and Cross",France,1
+2015,Martinez and Sons,EU,8
+2017,"Rogers, Santiago and Smith",Canada,1
+2022,"Jackson, Dunlap and Rivera",India,4
+2015,Cruz-Cannon,France,1
+2023,Bell-Reid,UK,13
+2018,Rogers-Robinson,Japan,9
+2019,Horn PLC,South Korea,1
+2019,Jimenez-Roberts,Canada,3
+2024,Bright-Gomez,EU,17
+2022,Grimes Ltd,Canada,6
+2016,Cunningham-Jones,Australia,1
+2019,"Lynch, Copeland and Strickland",France,2
+2016,"Trujillo, Daniel and Pope",Japan,5
+2017,"Cooper, Stout and Yu",USA,30
+2018,Brown-Moses,UK,1
+2017,Stanley-Day,South Korea,1
+2017,Harper Group,South Korea,1
+2022,Garza-Kennedy,USA,51
+2018,Swanson and Sons,Canada,1
+2017,Park Inc,Canada,1
+2019,"Wilson, Oliver and Myers",USA,16
+2017,Trujillo-Roberts,Canada,1
+2022,Hughes and Sons,USA,91
+2020,"Moreno, Patterson and Cooke",South Korea,1
+2024,"Hopkins, Jacobson and Whitaker",UK,4
+2022,"Mccarthy, Skinner and Carlson",Canada,1
+2023,Obrien LLC,EU,6
+2023,Ford PLC,Canada,4
+2020,"Moreno, Price and Johnson",EU,24
+2024,Carlson PLC,Japan,10
+2015,"Powell, Huang and Peterson",South Korea,1
+2023,Thompson Group,Australia,4
+2024,"Lozano, Jensen and Shields",India,1
+2016,智能诊断PLC,China,39
+2019,Cruz Group,Japan,13
+2023,"Lee, Baker and Wright",Japan,4
+2016,Hernandez-Nelson,Canada,1
+2020,Hanson Inc,South Korea,1
+2024,Mendez-Perry,France,6
+2016,"Moore, Livingston and Dominguez",UK,1
+2016,Foster-Smith,EU,1
+2015,"Jensen, Campbell and Roberts",India,1
+2019,"Lopez, Guerrero and Edwards",South Korea,1
+2022,"Gonzales, Krueger and Thomas",UK,6
+2023,Williams and Sons,EU,49
+2017,Porter-Macias,Japan,7
+2024,"Parrish, Butler and Wilson",EU,57
+2017,Tran-Kelly,EU,2
+2024,Montgomery-Robinson,Japan,22
+2021,"Clark, Lucas and Robles",USA,27
+2019,"Parrish, Collins and Miller",EU,22
+2019,Franklin and Sons,UK,1
+2022,Duffy Ltd,China,306
+2024,Harrison-Wang,France,10
+2017,深蓝医疗and Sons,China,58
+2023,"Smith, Ayala and White",South Korea,1
+2016,Butler LLC,Japan,3
+2017,"Nichols, Mathews and Lopez",France,1
+2015,"Walker, Adams and Wilson",Canada,1
+2019,Anderson LLC,India,3
+2017,Cooper-Moss,USA,29
+2021,Miles Ltd,India,3
+2024,Moss LLC,South Korea,1
+2018,"Ibarra, Johnston and Berger",USA,49
+2024,Serrano-Lewis,EU,25
+2022,Trevino and Sons,Australia,1
+2024,"Aguirre, Jones and Schwartz",India,15
+2020,"Zhang, Davis and Carter",Japan,12
+2017,"Robinson, Cook and Henderson",France,1
+2017,AI医疗科技PLC,China,74
+2018,Anthony-Johnson,South Korea,1
+2023,"Yates, White and Arias",USA,95
+2022,"Johnson, Anderson and Nichols",Japan,22
+2019,Nguyen LLC,France,2
+2016,Robinson Inc,Canada,1
+2019,Pope-Hardy,France,3
+2020,"Gonzales, Serrano and Mcgrath",EU,16
+2019,"Martinez, Scott and Elliott",EU,14
+2015,Adkins Inc,EU,1
+2019,Harrison-King,UK,1
+2020,Robles-Estes,EU,38
+2019,"Roth, Jones and Perkins",South Korea,1
+2023,深蓝医疗Inc,China,591
+2022,Smith and Sons,USA,26
+2022,Bryan-Paul,Canada,7
+2019,Patel-Henry,EU,11
+2021,Lawrence-Jackson,South Korea,1
+2019,Glover-Simmons,Australia,1
+2017,Thomas-Griffin,USA,19
+2015,"Kelley, Martin and Greer",Canada,1
+2015,Porter Ltd,USA,18
+2021,West PLC,Canada,1
+2017,Hale-Kim,South Korea,1
+2019,"Suarez, Lara and Shaw",EU,15
+2017,"Mills, Underwood and Cortez",USA,14
+2022,"Werner, Ramos and Miller",USA,26
+2022,"Baker, Small and Adams",France,2
+2018,Wilson-Wilson,France,1
+2022,Navarro Group,EU,8
+2024,"Eaton, Turner and Pena",Canada,8
+2020,Stone-Rivera,India,3
+2020,"Smith, Sullivan and Fitzpatrick",Australia,1
+2018,Gomez-Stewart,India,1
+2021,Sandoval-Charles,South Korea,2
+2016,"Perry, Carter and White",Australia,1
+2015,"Camacho, Patton and Davies",EU,5
+2018,Perez PLC,Canada,1
+2018,Gill-Boyd,USA,17
+2018,"Hall, Steele and Lyons",South Korea,1
+2023,"Williams, Castillo and Young",France,5
+2016,"Jones, Martinez and Hardy",EU,2
+2023,Chapman-Richardson,USA,77
+2022,"Clark, Johnson and Schneider",India,5
+2015,King Inc,UK,1
+2015,Perez Group,India,1
+2016,"Ho, Adams and Rodriguez",EU,9
+2023,"Perkins, Davidson and Barajas",China,204
+2022,"Phillips, Bowers and Lee",USA,21
+2017,Jones PLC,South Korea,1
+2020,Ellis-Berger,UK,1
+2020,"Martin, Lopez and Velez",South Korea,1
+2020,Byrd-Coleman,India,5
+2020,"Bryant, Holt and Carter",UK,4
+2024,Miller LLC,UK,5
+2017,Shaffer-Gray,France,1
+2021,Murray-Bates,EU,12
+2015,Johnson and Sons,Australia,1
+2015,Ward Ltd,USA,10
+2021,Carter-Keller,Canada,6
+2020,"Harris, Ross and Berry",Canada,1
+2023,深蓝医疗and Sons,China,532
+2017,Johnson-Giles,EU,3
+2020,Martinez-Hernandez,Japan,12
+2022,Dunn LLC,EU,26
+2022,Lewis and Sons,Japan,11
+2020,"Saunders, Thomas and Howard",EU,31
+2020,"Callahan, Wall and Johnson",India,1
+2022,Jacobs-Johnson,Australia,1
+2016,Rodriguez-Landry,USA,6
+2023,Perez Ltd,Japan,21
+2016,Raymond-Higgins,EU,10
+2024,"Salazar, Wilson and Fitzgerald",Canada,2
+2020,"Myers, Carlson and Weber",Canada,2
+2016,Johnson-Parsons,Australia,1
+2021,AI医疗科技PLC,China,471
+2016,Mahoney-Smith,France,1
+2020,Larsen-Chavez,India,1
+2024,Murphy-Brown,China,387
+2017,Romero LLC,Australia,1
+2022,Peterson and Sons,Australia,1
+2016,"Smith, Sims and Love",EU,3
+2015,"Lopez, Chase and Day",South Korea,1
+2017,Foley LLC,Australia,1
+2018,Hughes-Caldwell,USA,11
+2015,Cohen-Dixon,India,1
+2024,Campbell-Pitts,India,5
+2018,Vega Ltd,EU,7
+2018,Montoya-Sharp,India,2
+2022,Flores Group,South Korea,1
+2020,Nguyen PLC,China,185
+2024,AI医疗科技and Sons,China,70
+2023,"Smith, Wise and Osborne",UK,7
+2021,Jones Inc,Japan,18
+2024,Ward Ltd,Canada,3
+2018,Anderson-Brown,EU,16
+2023,Simmons-Moran,India,14
+2023,深蓝医疗Ltd,China,321
+2018,James PLC,India,1
+2015,"Fox, Gonzalez and Tate",EU,9
+2017,Rodriguez LLC,China,145
+2015,"Dorsey, White and Lawson",China,31
+2022,Allen PLC,EU,42
+2024,House Inc,South Korea,1
+2015,"Alexander, Thornton and Collins",India,2
+2016,"Moore, Harmon and Perez",EU,18
+2022,Boyd-Smith,Australia,4
+2020,Davis-Anderson,Japan,5
+2015,"Hinton, Bennett and Hebert",UK,1
+2019,Gould Group,India,4
+2017,"Goodman, Rasmussen and Smith",USA,5
+2023,Davis PLC,South Korea,1
+2022,Johnson Group,EU,18
+2021,Henry-Davidson,South Korea,1
+2022,Mueller PLC,USA,40
+2022,"Goodman, Williams and Anderson",France,3
+2016,Taylor Inc,USA,27
+2016,Fitzpatrick-Smith,EU,9
+2024,Sawyer Ltd,EU,25
+2022,Williams-Lopez,USA,10
+2017,Cook Group,France,1
+2017,Clark LLC,South Korea,1
+2022,"Lucero, Murphy and Ward",Canada,4
+2016,"Lee, Smith and Martin",Canada,1
+2015,Dodson-Jones,UK,1
+2023,Wright-Stone,UK,1
+2016,深蓝医疗PLC,China,100
+2015,Russell Ltd,China,85
+2022,English Inc,USA,43
+2021,Johnson Ltd,UK,1
+2024,Manning-Stevenson,Canada,13
+2021,Ross-Perry,China,632
+2015,Black-Anderson,India,1
+2017,深蓝医疗PLC,China,135
+2024,"Moore, Mata and Campbell",Canada,7
+2023,"Romero, Douglas and Cox",Australia,2
+2017,"Luna, Pierce and Clark",Japan,2
+2018,Taylor-Cox,Australia,1
+2020,Kelly and Sons,EU,28
+2023,Mayo LLC,UK,1
+2022,Wright PLC,Japan,5
+2017,Zuniga-Carrillo,Japan,1
+2021,"Ford, Roberts and Sosa",South Korea,1
+2018,Smith PLC,France,1
+2024,Greene Inc,UK,6
+2021,Johnston PLC,USA,10
+2018,Cook Ltd,India,1
+2017,"Cooper, Green and Scott",Australia,1
+2024,Garcia PLC,India,10
+2023,Wyatt and Sons,UK,4
+2021,Parks-Salas,France,2
+2019,"Cobb, Wilson and Brown",India,1
+2022,"Wang, Estrada and Walls",Canada,5
+2017,Swanson Ltd,UK,1
+2024,"Reynolds, Manning and Gibson",India,5
+2017,Turner PLC,India,3
+2024,Jackson-Mcdowell,France,1
+2024,Gates-Carter,India,2
+2024,Mcdaniel and Sons,China,203
+2017,Butler-Moore,USA,3
+2019,"Bryant, Brooks and Mathis",India,1
+2023,Brown Ltd,USA,48
+2023,Webb-Smith,EU,120
+2015,AI医疗科技Inc,China,94
+2023,Pearson LLC,Japan,6
+2021,Heath LLC,Australia,1
+2022,Watson-Hall,EU,28
+2017,Curry LLC,Canada,1
+2018,Lloyd PLC,UK,1
+2018,Weeks Inc,China,192
+2015,Mays-Pena,China,36
+2018,Turner-Alexander,UK,1
+2017,Brown PLC,Canada,2
+2015,Flowers LLC,Australia,1
+2015,Perez-Mooney,Canada,1
+2015,"Mclaughlin, Tran and Wright",UK,1
+2016,King PLC,China,38
+2024,Coleman Inc,UK,11
+2016,"Smith, Holmes and Malone",Japan,2
+2023,Lyons Inc,EU,48
+2021,"Frost, Sandoval and Liu",South Korea,1
+2016,"Tyler, Zhang and Irwin",India,2
+2017,Carter-Gonzales,France,1
+2020,AI医疗科技Ltd,China,202
+2020,Delgado Inc,Japan,14
+2021,"Parks, Roberts and Brady",France,2
+2016,Caldwell Group,Australia,1
+2015,"Mitchell, Compton and Vang",Japan,1
+2022,"Riley, Harper and Vargas",Japan,32
+2022,Powell Group,Canada,6
+2018,"White, Turner and Weaver",France,1
+2023,"Jimenez, Mathews and Alexander",France,1
+2016,Peterson-Giles,Canada,1
+2018,"Mcmahon, Thompson and Ortiz",EU,6
+2021,"Griffith, Clayton and Garcia",France,2
+2022,Mercado-Salas,Canada,3
+2024,Johnson-Flynn,France,3
+2015,Jones LLC,Canada,1
+2022,Carter-Jones,China,84
+2017,"Garcia, Smith and Johnson",Canada,1
+2015,Hardy Group,USA,10
+2018,"Harris, Larsen and Hicks",India,2
+2024,Sloan-Mcknight,USA,128
+2020,Krause-Collins,Canada,4
+2023,Nunez Inc,South Korea,1
+2020,Morales-Hudson,EU,13
+2020,"Brown, Harris and Suarez",France,1
+2017,Curry PLC,Canada,1
+2019,Reed PLC,UK,3
+2015,Poole-Murphy,China,39
+2018,Jackson-Murphy,South Korea,1
+2018,"Bailey, Weber and Velasquez",USA,24
+2023,Gutierrez LLC,Japan,8
+2019,Williams-White,China,311
+2024,Baker PLC,Australia,1
+2020,Vang LLC,EU,11
+2015,Fox-Bentley,Japan,2
+2023,AI医疗科技LLC,China,134
+2024,Hunt-Mullen,India,16
+2015,Bell LLC,USA,12
+2022,Sutton-Cole,USA,46
+2017,Burke Ltd,UK,1
+2019,Johnson and Sons,India,2
+2019,Sanchez-Anderson,Canada,4
+2016,Calhoun Inc,South Korea,1
+2018,Johnson PLC,UK,1
+2015,"Barnes, Smith and Logan",Canada,1
+2024,Dickerson Group,Japan,18
+2021,Brooks-Green,China,238
+2022,Wolfe and Sons,USA,108
+2017,Kim-Jenkins,India,3
+2017,Brown LLC,EU,6
+2024,Clark-Romero,UK,1
+2018,Lewis Ltd,France,2
+2016,Oneill-Graham,France,1
+2015,Hill Ltd,USA,1
+2021,Gibbs Group,France,1
+2020,Perkins-Lopez,UK,2
+2024,"Meyer, Sanders and Terrell",Japan,4
+2024,Evans Ltd,India,25
+2018,"Ryan, Guzman and Lewis",UK,1
+2022,White LLC,USA,21
+2017,Reynolds-Moore,France,1
+2020,"Mitchell, Mitchell and Jones",India,6
+2020,Norman Group,Japan,6
+2015,"Williams, Thomas and Wright",UK,1
+2015,"Cohen, Stein and Mcgee",China,40
+2023,深蓝医疗PLC,China,141
+2020,Reid Ltd,Japan,20
+2022,"Tyler, Johns and Carson",France,2
+2022,"Leon, Adams and West",UK,6
+2022,"Lawson, Spencer and Peterson",Australia,1
+2016,Brown-Vincent,Japan,1
+2018,Hubbard-Curry,UK,1
+2015,"Bates, Martinez and Wells",Japan,1
+2017,AI医疗科技Inc,China,22
+2021,"Lewis, Lopez and Lowe",Canada,2
+2022,Mosley-Reed,Australia,4
+2017,Savage PLC,Japan,1
+2016,Baldwin-Armstrong,UK,1
+2018,"Mitchell, Jones and Lawrence",EU,5
+2017,"Pugh, Murray and Campbell",EU,6
+2016,"Mendoza, Murphy and Velasquez",India,1
+2016,"Harrell, Garrett and Huffman",EU,13
+2019,"Sullivan, Rivers and Wang",Canada,1
+2024,Patterson Group,USA,201
+2021,Campbell-Lee,EU,12
+2015,Rice Group,USA,8
+2024,Savage-Baker,Canada,13
+2024,Smith-Burns,USA,66
+2023,"Peters, Grant and Rogers",India,5
+2024,"Brooks, Carpenter and Patel",China,360
+2017,Bauer and Sons,India,1
+2023,Hunter Inc,France,3
+2018,Green-Rogers,France,1
+2017,Griffith-Romero,UK,1
+2020,"Riggs, Miller and Mullen",Japan,4
+2021,Yang-Lopez,France,2
+2020,"Chambers, Curry and Weaver",USA,62
+2021,Peters Inc,UK,5
+2021,Weaver-Hogan,India,9
+2017,"Cross, Erickson and Walter",Japan,3
+2022,Petersen Inc,EU,14
+2023,"Edwards, Guzman and Carey",UK,2
+2023,"Rodriguez, Cooper and Simmons",India,4
+2020,Ward Inc,EU,18
+2024,Green PLC,Japan,23
+2017,智能诊断LLC,China,143
+2023,"Green, Harris and Burke",France,1
+2022,"Duffy, Scott and Dunlap",Canada,2
+2018,Jacobs-Thompson,USA,28
+2022,Davidson Group,India,6
+2023,Fox-Mccoy,China,697
+2022,"Rosales, Snow and Green",Canada,3
+2023,"Prince, Alexander and Gomez",China,388
+2024,Clark LLC,EU,20
+2022,Clark-Ritter,China,454
+2019,Rogers-Watson,India,1
+2021,White Group,China,242
+2024,Hester LLC,China,681
+2016,Lopez Group,South Korea,1
+2019,Hickman-Rogers,Canada,1
+2016,"Jones, Allen and Young",Canada,1
+2020,"Patterson, Jennings and Walker",China,414
+2017,Griffith Group,USA,14
+2022,Carney-Joseph,USA,21
+2024,Reynolds-Walton,USA,136
+2019,"Mcclain, Jordan and Wright",USA,48
+2018,Boyle-Hughes,EU,20
+2021,Schneider and Sons,China,115
+2016,Ibarra Inc,South Korea,1
+2019,Glass Inc,South Korea,1
+2016,"Gill, Moses and Robinson",Japan,5
+2021,Watkins LLC,EU,6
+2024,"Crawford, Wilson and Moses",UK,11
+2020,"Richard, Steele and Rivera",USA,37
+2015,智能诊断PLC,China,35
+2018,Boyd PLC,Japan,2
+2019,Webb-Contreras,USA,13
+2022,May-Castillo,South Korea,1
+2022,深蓝医疗Group,China,123
+2015,Oconnell-Carrillo,China,32
+2023,"Bailey, Becker and Perez",UK,5
+2018,"Wong, Miller and Scott",China,13
+2022,"Burgess, Mitchell and Cox",EU,13
+2015,Fernandez-Nunez,Japan,2
+2022,"Alexander, Knight and Cooper",France,2
+2017,"Perez, Humphrey and Jones",India,2
+2020,"Bryant, Tucker and Vang",Canada,1
+2024,Lynn Inc,France,5
+2019,Ortega-Mendoza,Australia,1
+2024,Torres-Solomon,South Korea,2
+2023,Davis-Thompson,UK,9
+2018,Potter-Sullivan,Japan,1
+2021,Warren-Hall,USA,98
+2021,智能诊断Inc,China,261
+2018,Anderson Ltd,India,4
+2022,Olson Ltd,Japan,2
+2023,Harper-Randolph,India,14
+2017,Adams-Rivera,France,1
+2018,Mclean-Mason,China,78
+2022,"Munoz, Moore and Anderson",UK,1
+2023,"Rodriguez, Powell and Proctor",Australia,5
+2024,"Stone, Morgan and Knight",EU,61
+2020,Williams Inc,Japan,5
+2021,"Johnson, Rodgers and Jones",EU,13
+2022,Reeves-Burton,South Korea,1
+2019,Archer Group,Japan,8
+2015,Roach LLC,EU,9
+2016,"Johnson, Clark and Galloway",India,1
+2018,"Yoder, Wolf and Holloway",Japan,5
+2020,Williams-Kelley,USA,25
+2019,Morgan Inc,France,1
+2015,Harrison Group,USA,11
+2019,"Hall, Ramos and Howard",China,116
+2021,"Gonzalez, Edwards and Lee",Canada,5
+2023,智能诊断and Sons,China,629
+2016,Zimmerman-Allen,UK,1
+2019,"Elliott, Davis and Hernandez",UK,2
+2016,Ward-Turner,India,1
+2017,Williams-Jenkins,EU,5
+2017,Page Inc,EU,3
+2021,Rangel-Bryant,EU,33
+2016,Horton LLC,USA,12
+2015,Fletcher-Wood,France,1
+2024,Brown Group,USA,39
+2023,Flores Inc,Canada,1
+2023,"Mitchell, Young and Jones",Australia,1
+2024,"White, Dyer and Smith",South Korea,3
+2018,Warren Group,South Korea,1
+2021,"Phillips, Atkinson and Fuller",India,6
+2021,"Wood, Dominguez and Ferguson",France,1
+2019,Jones LLC,Japan,8
+2020,"Kennedy, Fox and Arroyo",China,276
+2023,"Bryant, Gonzalez and Clark",EU,38
+2019,Johnson-Wilson,India,7
+2022,"Hutchinson, Hunter and Reyes",Japan,28
+2023,Jones-Rhodes,China,93
+2018,"Chapman, Jordan and Salazar",EU,1
+2019,Hayes-Sims,Japan,12
+2019,"Torres, Cooper and Ramsey",South Korea,1
+2023,Robles-Nielsen,UK,1
+2015,Jones-Quinn,India,1
+2017,"Allison, Warner and Wilson",Japan,3
+2018,"Terry, Delacruz and Contreras",USA,43
+2019,"Pratt, Rodriguez and Thomas",France,1
+2019,智能诊断LLC,China,216
+2024,Fernandez LLC,Canada,2
+2017,Lewis Ltd,South Korea,1
+2017,Hill-Montoya,Australia,1
+2021,Price Group,Australia,1
+2015,"Oconnor, Thompson and Jones",France,1
+2024,"Marquez, Navarro and Whitaker",EU,103
+2023,"Thompson, Alexander and Armstrong",Canada,6
+2023,"Ward, Luna and Lyons",Australia,1
+2016,"Day, Smith and Ball",Canada,1
+2022,Salazar PLC,UK,1
+2017,Bradley-King,Japan,2
+2019,Mejia Group,France,1
+2019,Haas Group,EU,31
+2015,Hampton-Montoya,India,1
+2017,AI医疗科技PLC,China,17
+2022,Bell-Bray,UK,5
+2023,"Hoover, Taylor and Jennings",India,4
+2017,Brown-Brewer,USA,29
+2020,Owens PLC,USA,42
+2021,Harrison Inc,UK,4
+2020,"Henry, Davis and Benitez",Canada,1
+2024,Russell Ltd,Canada,10
+2015,"Miles, Roberts and Fisher",Canada,1
+2016,Paul-Roberts,EU,1
+2018,Matthews Inc,France,1
+2021,"Rodriguez, Dean and White",Japan,16
+2017,Phillips LLC,France,1
+2016,Thomas PLC,Canada,1
+2020,"Bowers, Lane and Wiggins",USA,17
+2018,"Baker, Villarreal and Delgado",Australia,1
+2021,Hamilton-Vega,South Korea,1
+2018,"Mckinney, Simmons and Martinez",China,160
+2022,"Williams, Sanchez and Wise",Australia,3
+2021,Thomas-Murray,China,189
+2018,"Ford, Greer and Blanchard",France,1
+2023,Vaughn-Hampton,USA,108
+2020,"James, Arnold and Francis",South Korea,1
+2015,Fischer-Martinez,China,41
+2020,Huang Group,France,2
+2021,Castaneda LLC,UK,1
+2019,Roach Group,Japan,7
+2019,Hall and Sons,Australia,1
+2015,"Gardner, Brown and Bennett",France,1
+2021,Powell-Baldwin,China,132
+2022,Parker and Sons,Australia,1
+2020,"Taylor, Lewis and Patel",USA,34
+2019,"Wise, Flynn and Ross",Canada,3
+2022,Gillespie-Taylor,EU,54
+2015,AI医疗科技Group,China,47
+2019,Wells-Smith,China,248
+2022,Wu LLC,India,4
+2019,智能诊断Inc,China,281
+2019,Alvarez-Wright,EU,11
+2023,Harris-Stevens,USA,62
+2018,Garcia-Garcia,Japan,3
+2015,Richardson and Sons,India,1
+2020,Wallace LLC,USA,18
+2015,Long Group,EU,1
+2019,Thompson-Davies,France,1
+2019,Lambert Group,EU,16
+2023,Gilmore and Sons,Australia,5
+2017,Erickson LLC,Canada,1
+2018,Miller-Whitney,USA,13
+2022,Ward Group,India,4
+2023,"Zhang, Kelly and Lewis",India,6
+2022,Williams-Blackburn,China,190
+2021,Rodriguez-Arroyo,EU,8
+2021,Sullivan and Sons,Australia,2
+2022,"Mcdaniel, Cantrell and Pacheco",France,2
+2020,"Garcia, Williams and Bennett",USA,75
+2023,"Thompson, Reed and Bird",USA,58
+2022,"Gonzalez, Mcdowell and Martinez",UK,2
+2015,智能诊断Inc,China,96
+2021,"Carrillo, Jackson and Rivera",China,238
+2015,Moore PLC,China,12
+2017,Campbell Inc,India,2
+2018,Jackson-Collins,South Korea,1
+2022,Duncan-Andrews,South Korea,1
+2023,Holland PLC,UK,1
+2019,Coleman-Martin,Australia,1
+2024,Mayo LLC,France,4
+2020,Hughes-Navarro,South Korea,1
+2018,Lindsey-Black,Australia,1
+2022,"Kelly, Hernandez and Vega",India,9
+2017,"Gilbert, Copeland and Mitchell",China,178
+2016,"Anderson, Moran and Williams",South Korea,1
+2022,"Moore, Kim and Cook",USA,89
+2021,Edwards Group,France,1
+2016,Blackwell-Miller,EU,9
+2023,"Stewart, Santiago and Phillips",India,3
+2018,Phillips-Richardson,EU,8
+2016,Middleton-Vega,UK,1
+2018,Ramirez Group,Japan,5
+2024,Harris Group,Australia,1
+2022,Preston-Mitchell,China,100
+2024,Lewis-Campbell,China,778
+2016,Mathews-Ramirez,Japan,2
+2024,"Ellis, Jones and Ellis",EU,96
+2016,Freeman-Long,France,1
+2019,Mack-Clark,UK,2
+2021,Campos-Hansen,USA,82
+2022,White Group,South Korea,1
+2022,Scott-Nolan,India,1
+2022,Navarro Group,South Korea,1
+2024,"Gardner, Spencer and Fisher",Japan,23
+2019,Larsen-Costa,Australia,1
+2017,Mejia Ltd,USA,2
+2020,Garcia Group,Japan,19
+2024,Benitez Inc,China,117
+2024,Bennett Inc,India,1
+2022,"Scott, Taylor and Williams",France,6
+2021,Mccormick-Williams,France,1
+2017,Mccormick LLC,UK,1
+2019,Garcia and Sons,Australia,1
+2018,AI医疗科技Inc,China,42
+2024,Dunn-Knight,UK,1
+2022,Tanner-Jordan,EU,39
+2018,Edwards Group,Canada,1
+2019,Castillo Group,USA,32
+2024,Snyder and Sons,UK,13
+2022,Weber Group,UK,3
+2021,Carter-Sweeney,USA,32
+2020,"Lucas, Everett and Lopez",India,4
+2017,Gillespie-Carlson,USA,21
+2023,Reynolds LLC,UK,3
+2018,Callahan-Hall,India,1
+2024,Crawford Group,USA,45
+2017,Thomas LLC,Canada,1
+2016,"Williams, Johnson and Gregory",France,1
+2021,"Lee, Rivas and Brown",UK,5
+2018,"Williams, Griffin and King",France,1
+2018,Daniels-Mccormick,Japan,8
+2024,"Williams, Barrett and Brown",EU,16
+2020,Jones-Robinson,South Korea,1
+2022,Short-Smith,South Korea,1
+2021,Brown-Anthony,India,1
+2023,"Trujillo, Hamilton and Lyons",Japan,5
+2019,Hill PLC,France,1
+2016,Williams LLC,France,1
+2019,"Cross, Medina and Sullivan",UK,1
+2017,Reyes Ltd,India,1
+2017,Velez-Porter,Australia,1
+2019,Lewis Inc,South Korea,1
+2017,Russell and Sons,UK,1
+2016,Martin-Collins,USA,6
+2018,"Clark, Johnson and Pierce",China,101
+2018,"Vaughn, Reynolds and Miller",Australia,1
+2016,Hanna Inc,France,1
+2015,Herman and Sons,Australia,1
+2022,"Howard, Roman and Wiggins",Japan,3
+2021,"Ibarra, Myers and Tucker",China,363
+2024,"Bryant, Moore and Miller",India,9
+2021,Rodriguez-Lane,China,165
+2015,"Adams, Thornton and Cole",Japan,1
+2015,Coleman and Sons,France,1
+2024,Robinson Group,India,8
+2022,Villanueva Group,Canada,2
+2020,"Blackwell, Callahan and Thompson",Canada,1
+2019,"Christensen, Greene and Burnett",China,45
+2022,Decker Ltd,India,3
+2019,Sandoval-Edwards,China,44
+2021,"Stewart, Clements and Sanchez",USA,62
+2015,Meyer-Myers,India,1
+2016,Washington Inc,Canada,1
+2015,Ortiz-Cruz,USA,6
+2019,"Griffin, King and Blake",India,2
+2021,"Weber, Perkins and Roberts",Japan,27
+2019,Wilson Group,India,5
+2023,Peterson-Gross,France,2
+2020,"Sanders, Mckinney and Barber",Canada,4
+2021,Boyd-Miller,China,208
+2023,"Lawson, Peterson and Patterson",South Korea,1
+2017,Martinez-Jackson,France,1
+2018,Williams-Kelly,Australia,1
+2023,Richardson-Thomas,Canada,1
+2017,"Burton, White and White",India,4
+2018,Washington-Carpenter,Australia,1
+2018,"Caldwell, Duncan and Cisneros",Japan,8
+2018,Ramirez LLC,EU,10
+2017,"Hernandez, Mitchell and Perry",Australia,1
+2023,"Benson, Johnson and Davidson",France,7
+2023,"Molina, Pena and Riggs",USA,71
+2023,AI医疗科技Inc,China,277
+2018,Mckinney-Walker,Australia,1
+2024,Lewis-Bryant,India,16
+2024,Ibarra-Gregory,USA,21
+2023,Nelson-Wyatt,UK,6
+2020,Green PLC,Japan,18
+2016,Kent LLC,France,1
+2017,Matthews Group,Canada,1
+2022,智能诊断Inc,China,400
+2015,Savage LLC,Australia,1
+2017,"Malone, Barber and Barnes",Japan,2
+2023,Carter PLC,Canada,4
+2016,Williams LLC,Australia,1
+2017,Pope PLC,Australia,1
+2022,Frazier and Sons,South Korea,1
+2018,"Garcia, Scott and Maddox",South Korea,1
+2020,Williams Ltd,UK,1
+2017,Meyer Ltd,India,1
+2022,Turner PLC,Japan,24
+2015,"Joseph, Harris and Martinez",France,1
+2015,"Hopkins, Allen and Hunt",Japan,1
+2015,"Ayala, Stevens and Gonzalez",India,1
+2016,Brown and Sons,Canada,1
+2020,Miller-Roman,UK,1
+2015,Hickman PLC,USA,15
+2019,Stone LLC,EU,11
+2016,"Nicholson, Martinez and Finley",EU,3
+2024,"Thomas, Guzman and Wright",Japan,27
+2015,Dennis Ltd,EU,9
+2017,Hanson Inc,USA,11
+2021,Reyes Ltd,EU,3
+2021,深蓝医疗and Sons,China,93
+2020,Willis Ltd,Japan,6
+2020,Kelly Group,South Korea,1
+2016,Watts-Chan,France,1
+2022,"Ferguson, Weber and Williams",Japan,4
+2020,Moses-Callahan,USA,35
+2016,Gonzales-Hamilton,EU,9
+2016,Hanson Inc,India,1
+2016,"Krueger, Clark and Smith",France,1
+2021,"Mccoy, Malone and Miller",South Korea,1
+2017,Villarreal and Sons,India,1
+2023,AI医疗科技LLC,China,352
+2022,Kelly Ltd,UK,3
+2022,"Randall, Evans and Martin",South Korea,1
+2023,"Porter, Johnson and Hart",Australia,5
+2020,West-Humphrey,India,1
+2017,Lyons Group,India,1
+2019,Herrera-Smith,USA,16
+2021,Obrien-Martin,Canada,4
+2017,Alexander Inc,USA,35
+2023,"Walker, Willis and Gonzalez",EU,66
+2022,Lyons Ltd,Japan,19
+2022,"Wilkerson, Watts and Ibarra",Japan,17
+2023,Burnett-Miller,Australia,1
+2015,AI医疗科技and Sons,China,61
+2017,Meyer-Leonard,South Korea,1
+2015,James-Tate,EU,4
+2018,Briggs Group,Canada,2
+2017,Hanson-Pacheco,Canada,1
+2022,Jackson Inc,USA,45
+2022,Robinson LLC,India,1
+2023,Ortiz-Rich,UK,2
+2017,"Pratt, Barber and Butler",Australia,1
+2021,Mitchell-Joyce,EU,70
+2024,Callahan Group,Japan,8
+2022,Ward PLC,India,3
+2016,"Simmons, Weaver and Jacobs",South Korea,1
+2024,Dorsey Inc,Australia,3
+2016,"Hardin, Miller and Burgess",USA,11
+2016,Morris Group,Australia,1
+2019,Young-Clark,India,1
+2016,"Ramos, Perkins and Jennings",South Korea,1
+2022,"Duncan, Dennis and Collins",Japan,5
+2017,"Wilson, Riggs and Mitchell",UK,1
+2022,Green-Wong,UK,3
+2016,Fischer-Clayton,Australia,1
+2024,Dunn PLC,Canada,10
+2015,"Brown, King and Hendrix",South Korea,1
+2015,Craig PLC,Canada,1
+2022,Burns Ltd,UK,1
+2024,Norton-Jensen,France,3
+2020,"Stephens, Page and Yu",USA,57
+2015,Harrison-Calderon,France,1
+2020,Hardy and Sons,South Korea,1
+2016,Henry-Daniel,South Korea,1
+2022,Russell-Hopkins,Canada,3
+2024,Foster-Davis,UK,8
+2018,"Braun, Greene and Strong",South Korea,1
+2018,"Warren, Cox and Mcbride",Japan,7
+2021,Wiggins Group,Australia,2
+2016,Saunders-Allen,Canada,1
+2018,Smith PLC,UK,1
+2018,Williams Ltd,Canada,1
+2018,Morris-Garcia,South Korea,1
+2022,"Huang, Gay and Smith",USA,62
+2023,Wallace-Martin,Australia,1
+2024,Tran PLC,UK,3
+2017,"Gregory, Reyes and Garcia",South Korea,1
+2022,"Conrad, Navarro and Jones",France,1
+2024,Parsons LLC,China,68
+2019,Perez PLC,USA,32
+2020,Chase Ltd,Canada,2
+2022,Ferguson Ltd,France,6
+2017,Meyer-Hughes,India,1
+2017,"Young, Cooper and Brown",Canada,1
+2023,Craig Inc,China,151
+2015,Moore-Turner,India,2
+2016,"Stevens, Moore and Gross",UK,1
+2023,"Phillips, Glover and Dickson",USA,89
+2017,"Ford, George and Patterson",France,1
+2018,"Davenport, Howell and Morrison",India,1
+2015,Vasquez-Johnson,Japan,1
+2023,South Korea,,1385
+2023,China,,779273
+2020,USA,,52252
+2022,Australia,,1611
+2022,China,,458488
+2024,India,,11694
+2019,France,,1804
+2017,France,,1233
+2024,Canada,,8072
+2024,USA,,93340
+2016,USA,,17706
+2018,South Korea,,555
+2024,Japan,,37735
+2019,Canada,,2239
+2018,India,,2672
+2016,India,,1884
+2024,Australia,,3413
+2021,EU,,33208
+2016,France,,829
+2019,South Korea,,673
+2023,India,,8542
+2019,USA,,33418
+2023,France,,4426
+2021,UK,,3847
+2023,Japan,,17255
+2018,UK,,1592
+2015,EU,,8828
+2024,South Korea,,1768
+2015,South Korea,,246
+2016,China,,91479
+2022,India,,7366
+2020,UK,,3388
+2018,China,,180145
+2016,Japan,,4535
+2022,South Korea,,1043
+2020,China,,304601
+2016,EU,,10376
+2022,EU,,45124
+2016,UK,,1018
+2021,Australia,,1389
+2020,Japan,,9708
+2021,India,,7232
+2017,South Korea,,402
+2017,China,,127549
+2024,UK,,7723
+2022,UK,,4458
+2019,EU,,24313
+2022,Canada,,3604
+2019,Japan,,9197
+2017,UK,,1544

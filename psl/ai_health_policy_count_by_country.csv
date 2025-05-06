@@ -1,0 +1,331 @@
+Country,Year,Policy Count
+United States,2015,15
+United States,2016,32
+United States,2017,29
+United States,2018,27
+United States,2019,14
+United States,2020,11
+United States,2021,17
+United States,2022,22
+United States,2023,31
+United States,2024,15
+Canada,2015,5
+Canada,2016,0
+Canada,2017,1
+Canada,2018,1
+Canada,2019,2
+Canada,2020,1
+Canada,2021,1
+Canada,2022,1
+Canada,2023,0
+Canada,2024,2
+Mexico,2015,0
+Mexico,2016,0
+Mexico,2017,1
+Mexico,2018,2
+Mexico,2019,1
+Mexico,2020,0
+Mexico,2021,0
+Mexico,2022,2
+Mexico,2023,0
+Mexico,2024,0
+Germany,2015,32
+Germany,2016,14
+Germany,2017,11
+Germany,2018,26
+Germany,2019,30
+Germany,2020,15
+Germany,2021,17
+Germany,2022,32
+Germany,2023,28
+Germany,2024,10
+France,2015,23
+France,2016,23
+France,2017,29
+France,2018,20
+France,2019,18
+France,2020,18
+France,2021,33
+France,2022,32
+France,2023,19
+France,2024,27
+United Kingdom,2015,13
+United Kingdom,2016,26
+United Kingdom,2017,18
+United Kingdom,2018,13
+United Kingdom,2019,26
+United Kingdom,2020,20
+United Kingdom,2021,15
+United Kingdom,2022,28
+United Kingdom,2023,24
+United Kingdom,2024,22
+Netherlands,2015,0
+Netherlands,2016,0
+Netherlands,2017,0
+Netherlands,2018,2
+Netherlands,2019,1
+Netherlands,2020,1
+Netherlands,2021,2
+Netherlands,2022,0
+Netherlands,2023,1
+Netherlands,2024,0
+Sweden,2015,1
+Sweden,2016,1
+Sweden,2017,2
+Sweden,2018,0
+Sweden,2019,0
+Sweden,2020,1
+Sweden,2021,1
+Sweden,2022,3
+Sweden,2023,0
+Sweden,2024,0
+Denmark,2015,0
+Denmark,2016,2
+Denmark,2017,2
+Denmark,2018,1
+Denmark,2019,2
+Denmark,2020,1
+Denmark,2021,0
+Denmark,2022,2
+Denmark,2023,2
+Denmark,2024,0
+Finland,2015,0
+Finland,2016,0
+Finland,2017,0
+Finland,2018,2
+Finland,2019,0
+Finland,2020,1
+Finland,2021,0
+Finland,2022,0
+Finland,2023,2
+Finland,2024,1
+Belgium,2015,0
+Belgium,2016,1
+Belgium,2017,2
+Belgium,2018,1
+Belgium,2019,0
+Belgium,2020,3
+Belgium,2021,1
+Belgium,2022,1
+Belgium,2023,1
+Belgium,2024,1
+Italy,2015,1
+Italy,2016,1
+Italy,2017,2
+Italy,2018,0
+Italy,2019,1
+Italy,2020,3
+Italy,2021,1
+Italy,2022,0
+Italy,2023,4
+Italy,2024,1
+Spain,2015,0
+Spain,2016,2
+Spain,2017,0
+Spain,2018,1
+Spain,2019,2
+Spain,2020,0
+Spain,2021,1
+Spain,2022,4
+Spain,2023,4
+Spain,2024,0
+Austria,2015,4
+Austria,2016,1
+Austria,2017,2
+Austria,2018,3
+Austria,2019,3
+Austria,2020,1
+Austria,2021,1
+Austria,2022,0
+Austria,2023,0
+Austria,2024,0
+Estonia,2015,2
+Estonia,2016,3
+Estonia,2017,2
+Estonia,2018,4
+Estonia,2019,1
+Estonia,2020,0
+Estonia,2021,0
+Estonia,2022,0
+Estonia,2023,0
+Estonia,2024,0
+Portugal,2015,0
+Portugal,2016,0
+Portugal,2017,1
+Portugal,2018,0
+Portugal,2019,2
+Portugal,2020,0
+Portugal,2021,1
+Portugal,2022,0
+Portugal,2023,2
+Portugal,2024,3
+China,2015,22
+China,2016,14
+China,2017,15
+China,2018,10
+China,2019,34
+China,2020,16
+China,2021,22
+China,2022,14
+China,2023,33
+China,2024,16
+Japan,2015,11
+Japan,2016,35
+Japan,2017,12
+Japan,2018,18
+Japan,2019,28
+Japan,2020,25
+Japan,2021,11
+Japan,2022,10
+Japan,2023,20
+Japan,2024,10
+South Korea,2015,25
+South Korea,2016,15
+South Korea,2017,15
+South Korea,2018,19
+South Korea,2019,30
+South Korea,2020,27
+South Korea,2021,32
+South Korea,2022,20
+South Korea,2023,14
+South Korea,2024,27
+India,2015,27
+India,2016,18
+India,2017,28
+India,2018,22
+India,2019,26
+India,2020,24
+India,2021,33
+India,2022,13
+India,2023,10
+India,2024,16
+Singapore,2015,1
+Singapore,2016,2
+Singapore,2017,0
+Singapore,2018,0
+Singapore,2019,1
+Singapore,2020,0
+Singapore,2021,1
+Singapore,2022,1
+Singapore,2023,1
+Singapore,2024,1
+Israel,2015,4
+Israel,2016,2
+Israel,2017,1
+Israel,2018,0
+Israel,2019,2
+Israel,2020,1
+Israel,2021,2
+Israel,2022,3
+Israel,2023,1
+Israel,2024,3
+United Arab Emirates,2015,2
+United Arab Emirates,2016,2
+United Arab Emirates,2017,1
+United Arab Emirates,2018,1
+United Arab Emirates,2019,0
+United Arab Emirates,2020,2
+United Arab Emirates,2021,3
+United Arab Emirates,2022,0
+United Arab Emirates,2023,0
+United Arab Emirates,2024,0
+Saudi Arabia,2015,0
+Saudi Arabia,2016,2
+Saudi Arabia,2017,3
+Saudi Arabia,2018,1
+Saudi Arabia,2019,1
+Saudi Arabia,2020,2
+Saudi Arabia,2021,1
+Saudi Arabia,2022,0
+Saudi Arabia,2023,1
+Saudi Arabia,2024,0
+Thailand,2015,1
+Thailand,2016,2
+Thailand,2017,1
+Thailand,2018,1
+Thailand,2019,2
+Thailand,2020,0
+Thailand,2021,2
+Thailand,2022,1
+Thailand,2023,2
+Thailand,2024,1
+Australia,2015,0
+Australia,2016,1
+Australia,2017,1
+Australia,2018,0
+Australia,2019,1
+Australia,2020,4
+Australia,2021,2
+Australia,2022,1
+Australia,2023,4
+Australia,2024,1
+New Zealand,2015,1
+New Zealand,2016,2
+New Zealand,2017,1
+New Zealand,2018,0
+New Zealand,2019,2
+New Zealand,2020,2
+New Zealand,2021,1
+New Zealand,2022,2
+New Zealand,2023,0
+New Zealand,2024,3
+Brazil,2015,1
+Brazil,2016,2
+Brazil,2017,3
+Brazil,2018,0
+Brazil,2019,0
+Brazil,2020,0
+Brazil,2021,1
+Brazil,2022,5
+Brazil,2023,0
+Brazil,2024,0
+Chile,2015,3
+Chile,2016,0
+Chile,2017,0
+Chile,2018,2
+Chile,2019,2
+Chile,2020,3
+Chile,2021,2
+Chile,2022,2
+Chile,2023,0
+Chile,2024,1
+Argentina,2015,1
+Argentina,2016,0
+Argentina,2017,1
+Argentina,2018,2
+Argentina,2019,2
+Argentina,2020,0
+Argentina,2021,0
+Argentina,2022,0
+Argentina,2023,0
+Argentina,2024,1
+South Africa,2015,0
+South Africa,2016,0
+South Africa,2017,0
+South Africa,2018,2
+South Africa,2019,0
+South Africa,2020,0
+South Africa,2021,2
+South Africa,2022,2
+South Africa,2023,2
+South Africa,2024,2
+Egypt,2015,0
+Egypt,2016,0
+Egypt,2017,1
+Egypt,2018,3
+Egypt,2019,1
+Egypt,2020,2
+Egypt,2021,1
+Egypt,2022,3
+Egypt,2023,1
+Egypt,2024,2
+Kenya,2015,2
+Kenya,2016,0
+Kenya,2017,2
+Kenya,2018,3
+Kenya,2019,3
+Kenya,2020,2
+Kenya,2021,1
+Kenya,2022,1
+Kenya,2023,2
+Kenya,2024,1
