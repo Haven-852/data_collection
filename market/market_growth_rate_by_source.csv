@@ -1,0 +1,136 @@
+Region,Data Source,From Year,To Year,Growth Rate (%)
+China,中国信通院,2015,2016,6.51
+China,中国信通院,2016,2017,2.88
+China,中国信通院,2017,2018,5.49
+China,中国信通院,2018,2019,3.08
+China,中国信通院,2019,2020,-4.33
+China,中国信通院,2020,2021,-13.9
+China,中国信通院,2021,2022,7.38
+China,中国信通院,2022,2023,2.56
+China,中国信通院,2023,2024,28.07
+China,国家统计局,2015,2016,4.73
+China,国家统计局,2016,2017,4.15
+China,国家统计局,2017,2018,3.87
+China,国家统计局,2018,2019,3.05
+China,国家统计局,2019,2020,2.19
+China,国家统计局,2020,2021,-14.36
+China,国家统计局,2021,2022,9.89
+China,国家统计局,2022,2023,0.23
+China,国家统计局,2023,2024,26.14
+China,艾瑞咨询,2015,2016,5.59
+China,艾瑞咨询,2016,2017,-4.14
+China,艾瑞咨询,2017,2018,10.44
+China,艾瑞咨询,2018,2019,1.41
+China,艾瑞咨询,2019,2020,3.54
+China,艾瑞咨询,2020,2021,-17.29
+China,艾瑞咨询,2021,2022,14.39
+China,艾瑞咨询,2022,2023,-3.72
+China,艾瑞咨询,2023,2024,27.16
+EU,European Commission,2015,2016,-5.88
+EU,European Commission,2016,2017,2.31
+EU,European Commission,2017,2018,0.9
+EU,European Commission,2018,2019,2.47
+EU,European Commission,2019,2020,-3.06
+EU,European Commission,2020,2021,-9.93
+EU,European Commission,2021,2022,2.26
+EU,European Commission,2022,2023,0.49
+EU,European Commission,2023,2024,33.66
+EU,Eurostat,2015,2016,3.94
+EU,Eurostat,2016,2017,3.35
+EU,Eurostat,2017,2018,-4.32
+EU,Eurostat,2018,2019,2.03
+EU,Eurostat,2019,2020,3.1
+EU,Eurostat,2020,2021,-14.38
+EU,Eurostat,2021,2022,9.02
+EU,Eurostat,2022,2023,-5.75
+EU,Eurostat,2023,2024,26.59
+EU,Mordor Intelligence,2015,2016,2.99
+EU,Mordor Intelligence,2016,2017,-2.01
+EU,Mordor Intelligence,2017,2018,-2.73
+EU,Mordor Intelligence,2018,2019,2.81
+EU,Mordor Intelligence,2019,2020,3.64
+EU,Mordor Intelligence,2020,2021,-12.31
+EU,Mordor Intelligence,2021,2022,-0.25
+EU,Mordor Intelligence,2022,2023,3.02
+EU,Mordor Intelligence,2023,2024,29.27
+Global,Grand View Research,2015,2016,-1.09
+Global,Grand View Research,2016,2017,12.3
+Global,Grand View Research,2017,2018,-4.46
+Global,Grand View Research,2018,2019,-4.74
+Global,Grand View Research,2019,2020,10.01
+Global,Grand View Research,2020,2021,-14.54
+Global,Grand View Research,2021,2022,7.59
+Global,Grand View Research,2022,2023,3.99
+Global,Grand View Research,2023,2024,27.05
+Global,MarketsandMarkets,2015,2016,0.74
+Global,MarketsandMarkets,2016,2017,10.93
+Global,MarketsandMarkets,2017,2018,-4.5
+Global,MarketsandMarkets,2018,2019,2.29
+Global,MarketsandMarkets,2019,2020,1.69
+Global,MarketsandMarkets,2020,2021,-13.12
+Global,MarketsandMarkets,2021,2022,9.66
+Global,MarketsandMarkets,2022,2023,2.03
+Global,MarketsandMarkets,2023,2024,30.75
+Global,Statista,2015,2016,0.85
+Global,Statista,2016,2017,-1.89
+Global,Statista,2017,2018,9.06
+Global,Statista,2018,2019,-2.03
+Global,Statista,2019,2020,-2.2
+Global,Statista,2020,2021,-10.92
+Global,Statista,2021,2022,1.53
+Global,Statista,2022,2023,10.19
+Global,Statista,2023,2024,27.6
+India,CRISIL,2015,2016,3.45
+India,CRISIL,2016,2017,6.67
+India,CRISIL,2017,2018,0.0
+India,CRISIL,2018,2019,6.25
+India,CRISIL,2019,2020,0.0
+India,CRISIL,2020,2021,-11.76
+India,CRISIL,2021,2022,6.67
+India,CRISIL,2022,2023,0.0
+India,CRISIL,2023,2024,43.75
+India,India Brand Equity Foundation,2015,2016,0.0
+India,India Brand Equity Foundation,2016,2017,10.34
+India,India Brand Equity Foundation,2017,2018,9.37
+India,India Brand Equity Foundation,2018,2019,2.86
+India,India Brand Equity Foundation,2019,2020,0.0
+India,India Brand Equity Foundation,2020,2021,-16.67
+India,India Brand Equity Foundation,2021,2022,6.67
+India,India Brand Equity Foundation,2022,2023,0.0
+India,India Brand Equity Foundation,2023,2024,37.5
+India,NASSCOM,2015,2016,0.0
+India,NASSCOM,2016,2017,6.67
+India,NASSCOM,2017,2018,9.37
+India,NASSCOM,2018,2019,-5.71
+India,NASSCOM,2019,2020,3.03
+India,NASSCOM,2020,2021,-11.76
+India,NASSCOM,2021,2022,13.33
+India,NASSCOM,2022,2023,-5.88
+India,NASSCOM,2023,2024,43.75
+USA,CDC,2015,2016,-2.61
+USA,CDC,2016,2017,-2.52
+USA,CDC,2017,2018,10.18
+USA,CDC,2018,2019,-6.3
+USA,CDC,2019,2020,4.54
+USA,CDC,2020,2021,-16.02
+USA,CDC,2021,2022,11.23
+USA,CDC,2022,2023,-7.05
+USA,CDC,2023,2024,21.55
+USA,Frost & Sullivan,2015,2016,-3.06
+USA,Frost & Sullivan,2016,2017,5.82
+USA,Frost & Sullivan,2017,2018,4.4
+USA,Frost & Sullivan,2018,2019,-3.46
+USA,Frost & Sullivan,2019,2020,-4.21
+USA,Frost & Sullivan,2020,2021,-8.63
+USA,Frost & Sullivan,2021,2022,0.71
+USA,Frost & Sullivan,2022,2023,2.65
+USA,Frost & Sullivan,2023,2024,25.0
+USA,IBISWorld,2015,2016,6.44
+USA,IBISWorld,2016,2017,-5.6
+USA,IBISWorld,2017,2018,1.44
+USA,IBISWorld,2018,2019,3.0
+USA,IBISWorld,2019,2020,-1.38
+USA,IBISWorld,2020,2021,-12.75
+USA,IBISWorld,2021,2022,4.46
+USA,IBISWorld,2022,2023,-1.02
+USA,IBISWorld,2023,2024,24.66
