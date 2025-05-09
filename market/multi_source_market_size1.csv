@@ -1,0 +1,151 @@
+Year,Region,Data Source,Market Size,Currency
+2015,China,中国信通院,66.4,CNY
+2015,China,国家统计局,63.6,CNY
+2015,China,艾瑞咨询,63.0,CNY
+2016,China,中国信通院,70.9,CNY
+2016,China,国家统计局,72.0,CNY
+2016,China,艾瑞咨询,69.4,CNY
+2017,China,中国信通院,76.9,CNY
+2017,China,国家统计局,75.8,CNY
+2017,China,艾瑞咨询,77.1,CNY
+2018,China,中国信通院,79.4,CNY
+2018,China,国家统计局,76.6,CNY
+2018,China,艾瑞咨询,78.0,CNY
+2019,China,中国信通院,75.4,CNY
+2019,China,国家统计局,80.1,CNY
+2019,China,艾瑞咨询,80.9,CNY
+2020,China,中国信通院,84.5,CNY
+2020,China,国家统计局,79.2,CNY
+2020,China,艾瑞咨询,81.4,CNY
+2021,China,中国信通院,77.1,CNY
+2021,China,国家统计局,78.8,CNY
+2021,China,艾瑞咨询,76.2,CNY
+2022,China,中国信通院,84.5,CNY
+2022,China,国家统计局,81.8,CNY
+2022,China,艾瑞咨询,84.0,CNY
+2023,China,中国信通院,88.0,CNY
+2023,China,国家统计局,88.0,CNY
+2023,China,艾瑞咨询,88.0,CNY
+2024,China,中国信通院,114.9,CNY
+2024,China,国家统计局,109.0,CNY
+2024,China,艾瑞咨询,111.9,CNY
+2015,EU,European Commission,31.1,EUR
+2015,EU,Eurostat,31.2,EUR
+2015,EU,Mordor Intelligence,33.9,EUR
+2016,EU,European Commission,32.1,EUR
+2016,EU,Eurostat,32.7,EUR
+2016,EU,Mordor Intelligence,33.0,EUR
+2017,EU,European Commission,32.5,EUR
+2017,EU,Eurostat,35.0,EUR
+2017,EU,Mordor Intelligence,33.3,EUR
+2018,EU,European Commission,36.5,EUR
+2018,EU,Eurostat,35.7,EUR
+2018,EU,Mordor Intelligence,34.3,EUR
+2019,EU,European Commission,38.0,EUR
+2019,EU,Eurostat,36.0,EUR
+2019,EU,Mordor Intelligence,36.6,EUR
+2020,EU,European Commission,38.9,EUR
+2020,EU,Eurostat,40.8,EUR
+2020,EU,Mordor Intelligence,39.9,EUR
+2021,EU,European Commission,34.9,EUR
+2021,EU,Eurostat,35.5,EUR
+2021,EU,Mordor Intelligence,36.2,EUR
+2022,EU,European Commission,41.5,EUR
+2022,EU,Eurostat,39.3,EUR
+2022,EU,Mordor Intelligence,38.3,EUR
+2023,EU,European Commission,41.0,EUR
+2023,EU,Eurostat,41.0,EUR
+2023,EU,Mordor Intelligence,41.0,EUR
+2024,EU,European Commission,54.1,EUR
+2024,EU,Eurostat,53.0,EUR
+2024,EU,Mordor Intelligence,51.2,EUR
+2015,Global,Grand View Research,109.4,USD
+2015,Global,MarketsandMarkets,108.2,USD
+2015,Global,Statista,105.3,USD
+2016,Global,Grand View Research,112.7,USD
+2016,Global,MarketsandMarkets,121.4,USD
+2016,Global,Statista,110.5,USD
+2017,Global,Grand View Research,122.4,USD
+2017,Global,MarketsandMarkets,119.8,USD
+2017,Global,Statista,120.8,USD
+2018,Global,Grand View Research,128.0,USD
+2018,Global,MarketsandMarkets,125.1,USD
+2018,Global,Statista,119.8,USD
+2019,Global,Grand View Research,126.4,USD
+2019,Global,MarketsandMarkets,134.0,USD
+2019,Global,Statista,123.6,USD
+2020,Global,Grand View Research,137.4,USD
+2020,Global,MarketsandMarkets,135.2,USD
+2020,Global,Statista,127.4,USD
+2021,Global,Grand View Research,123.0,USD
+2021,Global,MarketsandMarkets,131.6,USD
+2021,Global,Statista,125.6,USD
+2022,Global,Grand View Research,136.3,USD
+2022,Global,MarketsandMarkets,140.3,USD
+2022,Global,Statista,133.5,USD
+2023,Global,Grand View Research,146.0,USD
+2023,Global,MarketsandMarkets,146.0,USD
+2023,Global,Statista,146.0,USD
+2024,Global,Grand View Research,180.0,USD
+2024,Global,MarketsandMarkets,191.6,USD
+2024,Global,Statista,187.1,USD
+2015,India,CRISIL,2.5,USD
+2015,India,India Brand Equity Foundation,2.4,USD
+2015,India,NASSCOM,2.3,USD
+2016,India,CRISIL,2.6,USD
+2016,India,India Brand Equity Foundation,2.5,USD
+2016,India,NASSCOM,2.6,USD
+2017,India,CRISIL,2.7,USD
+2017,India,India Brand Equity Foundation,2.6,USD
+2017,India,NASSCOM,2.6,USD
+2018,India,CRISIL,2.9,USD
+2018,India,India Brand Equity Foundation,2.9,USD
+2018,India,NASSCOM,2.9,USD
+2019,India,CRISIL,2.8,USD
+2019,India,India Brand Equity Foundation,2.9,USD
+2019,India,NASSCOM,2.9,USD
+2020,India,CRISIL,3.1,USD
+2020,India,India Brand Equity Foundation,3.1,USD
+2020,India,NASSCOM,3.2,USD
+2021,India,CRISIL,2.9,USD
+2021,India,India Brand Equity Foundation,2.9,USD
+2021,India,NASSCOM,3.0,USD
+2022,India,CRISIL,3.2,USD
+2022,India,India Brand Equity Foundation,3.0,USD
+2022,India,NASSCOM,3.0,USD
+2023,India,CRISIL,3.2,USD
+2023,India,India Brand Equity Foundation,3.2,USD
+2023,India,NASSCOM,3.2,USD
+2024,India,CRISIL,4.8,USD
+2024,India,India Brand Equity Foundation,4.6,USD
+2024,India,NASSCOM,4.5,USD
+2015,USA,CDC,43.2,USD
+2015,USA,Frost & Sullivan,46.4,USD
+2015,USA,IBISWorld,46.2,USD
+2016,USA,CDC,44.4,USD
+2016,USA,Frost & Sullivan,45.5,USD
+2016,USA,IBISWorld,44.9,USD
+2017,USA,CDC,45.9,USD
+2017,USA,Frost & Sullivan,45.6,USD
+2017,USA,IBISWorld,48.9,USD
+2018,USA,CDC,46.9,USD
+2018,USA,Frost & Sullivan,50.2,USD
+2018,USA,IBISWorld,50.1,USD
+2019,USA,CDC,51.3,USD
+2019,USA,Frost & Sullivan,50.2,USD
+2019,USA,IBISWorld,53.6,USD
+2020,USA,CDC,54.5,USD
+2020,USA,Frost & Sullivan,54.6,USD
+2020,USA,IBISWorld,54.1,USD
+2021,USA,CDC,49.7,USD
+2021,USA,Frost & Sullivan,54.4,USD
+2021,USA,IBISWorld,52.0,USD
+2022,USA,CDC,55.4,USD
+2022,USA,Frost & Sullivan,56.9,USD
+2022,USA,IBISWorld,57.0,USD
+2023,USA,CDC,58.0,USD
+2023,USA,Frost & Sullivan,58.0,USD
+2023,USA,IBISWorld,58.0,USD
+2024,USA,CDC,69.6,USD
+2024,USA,Frost & Sullivan,72.1,USD
+2024,USA,IBISWorld,75.4,USD

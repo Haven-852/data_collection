@@ -45,20 +45,27 @@ def generate_base_series(region, base_year, base_value, start_year=2015):
     years = list(range(start_year, base_year + 2))  # 包含2024年
     data = {}
     
-    data[base_year] = base_value
+    # 从2015年开始正向生成数据
+    data[start_year] = base_value * (0.3 + 0.7 * np.random.random())  # 初始值为基准值的30%-100%
     
-    # 反向生成历史数据
-    for year in reversed(range(start_year, base_year)):
-        if year + 1 == 2021:
-            decline = uniform(0.05, 0.10)
-            data[year] = data[year+1] / (1 - decline)
-        else:
-            growth = uniform(-0.03, 0.07)
-            data[year] = data[year+1] / (1 + growth)
+    for year in range(start_year + 1, base_year + 2):
+        if year == 2021:  # 特殊处理2021年下降
+            decline = uniform(0.03, 0.08)  # 下降3%-8%
+            data[year] = data[year-1] * (1 - decline)
+        elif year == 2022:  # 2022年恢复增长
+            recovery = uniform(0.05, 0.10)  # 恢复增长5%-10%
+            data[year] = data[year-1] * (1 + recovery)
+        elif year <= base_year:  # 其他年份正常增长
+            growth = uniform(0.02, 0.07)  # 2%-7%增长
+            data[year] = data[year-1] * (1 + growth)
+        else:  # 2024年预测
+            growth_rates = {"Global":0.28, "China":0.285, "USA":0.25, "India":0.45, "EU":0.3}
+            data[year] = data[year-1] * (1 + growth_rates[region])
     
-    # 生成2024预测
-    growth_rates = {"Global":0.28, "China":0.285, "USA":0.25, "India":0.45, "EU":0.3}
-    data[base_year+1] = data[base_year] * (1 + growth_rates[region])
+    # 对历史数据进行缩放，使2023年正好等于基准值
+    scale_factor = base_value / data[base_year]
+    for year in data:
+        data[year] *= scale_factor
     
     # 存储到全局字典
     global_base_series[region] = data
@@ -158,6 +165,6 @@ def validate_data(df):
 validate_data(df)
 
 # 8. 导出CSV
-df.to_csv("multi_source_market_size.csv", index=False)
+df.to_csv("multi_source_market_size1.csv", index=False)
 print("数据生成成功！前5行示例：")
 print(df.head())
